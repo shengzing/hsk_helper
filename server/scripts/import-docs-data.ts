@@ -175,6 +175,25 @@ function importPaper(db: Database.Database, source: PaperImportSource): string {
             paper.passing_score
         );
 
+        // Insert every extracted asset once. Audio and images are linked to
+        // their materials below; PDFs and answer keys are linked separately.
+        const assetById = new Map(paper.assets.map((asset) => [asset.id, asset]));
+        for (const asset of paper.assets) {
+            insertAsset(db, {
+                id: asset.id,
+                asset_type: asset.asset_type,
+                storage_key: asset.storage_key,
+                url: asset.url,
+                mime_type: asset.mime_type,
+                duration_ms: asset.duration_ms,
+            });
+            db.prepare(`
+                INSERT INTO paper_assets (
+                    paper_id, asset_id, usage, display_order
+                ) VALUES (?, ?, ?, 0)
+            `).run(paperId, asset.id, asset.usage);
+        }
+
         // Listening, reading, and writing each get a material-backed group.
         for (const section of paper.sections) {
             const sectionId = `section-${source.code}-${section.code}`;
@@ -201,6 +220,10 @@ function importPaper(db: Database.Database, source: PaperImportSource): string {
                     : null;
 
                 if (materialId) {
+                    const imageAssetIds = (group.payload as { image_asset_ids?: string[] } | undefined)?.image_asset_ids ?? [];
+                    const materialType = imageAssetIds.length > 0
+                        ? "mixed"
+                        : section.code === "listening" ? "audio" : "text";
                     db.prepare(`
                         INSERT INTO materials (
                             id, bank_id, material_type, title, text_content, transcript,
@@ -209,12 +232,24 @@ function importPaper(db: Database.Database, source: PaperImportSource): string {
                     `).run(
                         materialId,
                         BANK_ID,
-                        section.code === "listening" ? "audio" : "text",
+                        materialType,
                         group.instruction,
                         section.code === "listening" ? null : group.material ?? null,
                         null,
                         JSON.stringify({}),
                     );
+                }
+
+                const imageAssetIds = (group.payload as { image_asset_ids?: string[] } | undefined)?.image_asset_ids ?? [];
+                if (materialId) {
+                    for (const [index, imageAssetId] of imageAssetIds.entries()) {
+                        db.prepare(`
+                            INSERT INTO material_assets (
+                                material_id, asset_id, usage, display_order,
+                                start_ms, end_ms, play_limit
+                            ) VALUES (?, ?, 'image', ?, NULL, NULL, NULL)
+                        `).run(materialId, imageAssetId, index);
+                    }
                 }
 
                 const groupId = `group-${source.code}-${section.code}-${group.key}`;
@@ -289,30 +324,18 @@ function importPaper(db: Database.Database, source: PaperImportSource): string {
 
                 if (
                     section.code === "listening" &&
-                    paper.assets[0] &&
+                    assetById.size > 0 &&
                     materialId
                 ) {
-                    const audio = paper.assets[0];
-                    insertAsset(db, {
-                        id: audio.id,
-                        asset_type: audio.asset_type,
-                        storage_key: audio.storage_key,
-                        url: audio.url,
-                        mime_type: audio.mime_type,
-                        duration_ms: audio.duration_ms,
-                    });
-                    db.prepare(`
-                        INSERT INTO paper_assets (
-                            paper_id, asset_id, usage, display_order
-                        ) VALUES (?, ?, ?, 0)
-                    `).run(paperId, audio.id, audio.usage);
-
-                    db.prepare(`
-                        INSERT INTO material_assets (
-                            material_id, asset_id, usage, display_order,
-                            start_ms, end_ms, play_limit
-                        ) VALUES (?, ?, 'audio', 0, NULL, NULL, 1)
-                    `).run(materialId, audio.id);
+                    const audio = [...assetById.values()].find((asset) => asset.asset_type === "audio");
+                    if (audio) {
+                        db.prepare(`
+                            INSERT INTO material_assets (
+                                material_id, asset_id, usage, display_order,
+                                start_ms, end_ms, play_limit
+                            ) VALUES (?, ?, 'audio', 0, NULL, NULL, 1)
+                        `).run(materialId, audio.id);
+                    }
                 }
             }
         }

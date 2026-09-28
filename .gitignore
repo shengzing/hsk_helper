@@ -16,6 +16,7 @@ data/app.db.backup*
 # Large media files (use cloud storage or Git LFS)
 data/media/
 data/ocr/
+data/assets/images/**/*-source.jpg
 
 # Large binary source files
 docs/**/*.mp3

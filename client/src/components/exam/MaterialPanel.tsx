@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { ReadOutlined } from "@ant-design/icons";
 import AudioPlayer from "./AudioPlayer";
+import QuestionImages from "../QuestionImages";
 import type { MaterialInfo, QuestionGroupInfo } from "../../types";
 
 interface MaterialPanelProps {
@@ -22,6 +23,10 @@ export default function MaterialPanel({
   const { t } = useTranslation();
   const isChinese = locale?.startsWith("zh") ?? false;
   const material = group.material;
+  const currentQuestionImages = currentQuestionNumber
+    ? group.payload?.question_image_asset_ids?.[String(currentQuestionNumber)]
+    : undefined;
+  const imageAssetIds = currentQuestionImages ?? group.payload?.image_asset_ids ?? [];
   const currentListeningPart = currentQuestionNumber
     ? group.payload?.parts?.find((part) =>
         part.questionNumbers.includes(currentQuestionNumber)
@@ -84,7 +89,9 @@ export default function MaterialPanel({
           <Typography.Paragraph type="secondary" style={{ whiteSpace: "pre-wrap" }}>{material.transcript}</Typography.Paragraph>
         </div>
       )}
-      {/* Image groups and mixed materials can be extended here */}
+      {imageAssetIds.length > 0 && (
+        <QuestionImages assetIds={imageAssetIds} attemptId={attemptId} />
+      )}
     </Card>
   );
 }

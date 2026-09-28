@@ -9,6 +9,9 @@
   "scripts": {
     "dev": "concurrently -n server,client -c blue,green \"npm:dev --workspace server\" \"npm:dev --workspace client\"",
     "dev:server": "npm run dev --workspace server",
+    "extract:data": "npm run extract:data --workspace server",
+    "extract:image-answers": "npm run extract:image-answers --workspace server",
+    "import:data": "npm run import:data --workspace server",
     "build": "npm run build --workspace server && npm run build --workspace client",
     "build:start": "npm run build && npm run start",
     "start": "npm run start --workspace server",

@@ -685,7 +685,12 @@ button { cursor: pointer; font: inherit; }
 .protected-text canvas { display: block; max-width: 100%; }
 
 /* ── Question images (G-012) ── */
-.question-images { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; margin-top: 10px; }
+.question-images {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
 
 /* ── Drawer user actions (G-001) ── */
 .drawer-user-actions { margin-top: 24px; padding: 0 16px; }

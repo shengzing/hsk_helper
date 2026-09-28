@@ -20,6 +20,11 @@ import { HttpError } from "../utils/httpError.js";
 import { asyncHandler } from "../utils/asyncHandler.js";
 
 const MIME_MAP: Record<string, string> = {
+    ".jpg": "image/jpeg",
+    ".jpeg": "image/jpeg",
+    ".png": "image/png",
+    ".webp": "image/webp",
+    ".gif": "image/gif",
     ".mp3": "audio/mpeg",
     ".aac": "audio/aac",
     ".wav": "audio/wav",

@@ -6,6 +6,9 @@
     "scripts": {
         "dev": "tsx watch src/server.ts",
         "extract:docs": "node --import tsx scripts/extract-docs-data.ts",
+        "extract:data": "node --import tsx scripts/extract-data-dir.ts",
+        "extract:image-answers": "node --import tsx scripts/extract-image-answers.ts",
+        "import:data": "node --import tsx scripts/import-data-dir.ts",
         "import:docs": "node --import tsx scripts/import-docs-data.ts",
         "build": "tsc -p tsconfig.json && cp src/db/*.sql dist/db/",
         "start": "node dist/server.js",

@@ -115,7 +115,7 @@ export function getPaperDetail(
                     question_type: q.question_type,
                     stem: q.stem,
                     difficulty: q.difficulty,
-                    payload: safeParseJson(q.payload_json),
+                    payload: normalizeQuestionPayload(safeParseJson(q.payload_json)),
                     // answer_json and explanation are NOT returned before submission
                     is_enabled: q.is_enabled === 1,
                 })),
@@ -153,4 +153,19 @@ function safeParseJson(json: string): unknown {
     } catch {
         return null;
     }
+}
+
+function normalizeQuestionPayload(payload: unknown): unknown {
+    if (Array.isArray(payload)) {
+        return payload.map(normalizeQuestionPayload);
+    }
+    if (payload === null || typeof payload !== "object") {
+        return payload;
+    }
+    return Object.fromEntries(
+        Object.entries(payload as Record<string, unknown>).map(([key, value]) => [
+            key.replace(/_([a-z])/g, (_, letter: string) => letter.toUpperCase()),
+            normalizeQuestionPayload(value),
+        ])
+    );
 }

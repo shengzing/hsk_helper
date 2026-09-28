@@ -99,6 +99,44 @@ describe("Paper service", () => {
     });
   });
 
+  describe("getPaperDetail — payload normalization", () => {
+    it("converts snake_case question payload keys to camelCase", () => {
+      db.prepare(
+        `INSERT INTO questions (id, bank_id, question_group_id, status)
+         VALUES ('q-test-tf', 'hsk-level-6', 'qg-test', 'published')`
+      ).run();
+      db.prepare(
+        `INSERT INTO question_versions (
+          id, question_id, version_number, question_type, stem, difficulty,
+          payload_json, answer_json, status, is_current, is_enabled
+        ) VALUES (
+          'qv-test-tf', 'q-test-tf', 1, 'true_false', '判断', 3,
+          '{"display_text":"明天天气很好。","true_label":"对","false_label":"错"}',
+          '{"value":true}', 'published', 1, 1
+        )`
+      ).run();
+      db.prepare(
+        `INSERT INTO paper_questions (
+          id, paper_id, section_id, question_id, question_version_id,
+          question_group_version_id, display_order, score
+        ) VALUES (
+          'pq-test-tf', 'paper-h61438', 'section-h61438-listening', 'q-test-tf',
+          'qv-test-tf', 'qgv-test', 202, 2
+        )`
+      ).run();
+
+      const paper = getPaperDetail(db, "paper-h61438", studentId);
+      const listening = paper.sections.find((s) => s.code === "listening");
+      const allQuestions = listening!.groups.flatMap((g) => (g as any).questions || []);
+      const testQ = allQuestions.find((q: any) => q.id === "pq-test-tf");
+      expect(testQ.payload).toEqual({
+        displayText: "明天天气很好。",
+        trueLabel: "对",
+        falseLabel: "错",
+      });
+    });
+  });
+
   describe("getPaperDetail — subscription check (path A)", () => {
     it("throws 403 for user without subscription", () => {
       expect(() => getPaperDetail(db, "paper-h61438", "user-admin")).toThrow(HttpError);

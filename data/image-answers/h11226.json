@@ -1,0 +1,286 @@
+{
+  "paper": "h11226",
+  "title": "HSK 一级真题 11226",
+  "questions": [
+    {
+      "number": 1,
+      "section": "listening",
+      "part": 1,
+      "answer": false,
+      "image_asset_ids": []
+    },
+    {
+      "number": 2,
+      "section": "listening",
+      "part": 1,
+      "answer": false,
+      "image_asset_ids": []
+    },
+    {
+      "number": 3,
+      "section": "listening",
+      "part": 1,
+      "answer": false,
+      "image_asset_ids": []
+    },
+    {
+      "number": 4,
+      "section": "listening",
+      "part": 1,
+      "answer": true,
+      "image_asset_ids": []
+    },
+    {
+      "number": 5,
+      "section": "listening",
+      "part": 1,
+      "answer": true,
+      "image_asset_ids": []
+    },
+    {
+      "number": 6,
+      "section": "listening",
+      "part": 2,
+      "answer": "A",
+      "image_asset_ids": []
+    },
+    {
+      "number": 7,
+      "section": "listening",
+      "part": 2,
+      "answer": "C",
+      "image_asset_ids": []
+    },
+    {
+      "number": 8,
+      "section": "listening",
+      "part": 2,
+      "answer": "C",
+      "image_asset_ids": []
+    },
+    {
+      "number": 9,
+      "section": "listening",
+      "part": 2,
+      "answer": "A",
+      "image_asset_ids": []
+    },
+    {
+      "number": 10,
+      "section": "listening",
+      "part": 2,
+      "answer": "B",
+      "image_asset_ids": []
+    },
+    {
+      "number": 11,
+      "section": "listening",
+      "part": 3,
+      "answer": "D",
+      "image_asset_ids": []
+    },
+    {
+      "number": 12,
+      "section": "listening",
+      "part": 3,
+      "answer": "A",
+      "image_asset_ids": []
+    },
+    {
+      "number": 13,
+      "section": "listening",
+      "part": 3,
+      "answer": "E",
+      "image_asset_ids": []
+    },
+    {
+      "number": 14,
+      "section": "listening",
+      "part": 3,
+      "answer": "B",
+      "image_asset_ids": []
+    },
+    {
+      "number": 15,
+      "section": "listening",
+      "part": 3,
+      "answer": "F",
+      "image_asset_ids": []
+    },
+    {
+      "number": 16,
+      "section": "listening",
+      "part": 4,
+      "answer": "C",
+      "image_asset_ids": []
+    },
+    {
+      "number": 17,
+      "section": "listening",
+      "part": 4,
+      "answer": "B",
+      "image_asset_ids": []
+    },
+    {
+      "number": 18,
+      "section": "listening",
+      "part": 4,
+      "answer": "B",
+      "image_asset_ids": []
+    },
+    {
+      "number": 19,
+      "section": "listening",
+      "part": 4,
+      "answer": "C",
+      "image_asset_ids": []
+    },
+    {
+      "number": 20,
+      "section": "listening",
+      "part": 4,
+      "answer": "A",
+      "image_asset_ids": []
+    },
+    {
+      "number": 21,
+      "section": "reading",
+      "part": 1,
+      "answer": true,
+      "image_asset_ids": []
+    },
+    {
+      "number": 22,
+      "section": "reading",
+      "part": 1,
+      "answer": false,
+      "image_asset_ids": []
+    },
+    {
+      "number": 23,
+      "section": "reading",
+      "part": 1,
+      "answer": true,
+      "image_asset_ids": []
+    },
+    {
+      "number": 24,
+      "section": "reading",
+      "part": 1,
+      "answer": true,
+      "image_asset_ids": []
+    },
+    {
+      "number": 25,
+      "section": "reading",
+      "part": 1,
+      "answer": false,
+      "image_asset_ids": []
+    },
+    {
+      "number": 26,
+      "section": "reading",
+      "part": 2,
+      "answer": "C",
+      "image_asset_ids": []
+    },
+    {
+      "number": 27,
+      "section": "reading",
+      "part": 2,
+      "answer": "A",
+      "image_asset_ids": []
+    },
+    {
+      "number": 28,
+      "section": "reading",
+      "part": 2,
+      "answer": "B",
+      "image_asset_ids": []
+    },
+    {
+      "number": 29,
+      "section": "reading",
+      "part": 2,
+      "answer": "F",
+      "image_asset_ids": []
+    },
+    {
+      "number": 30,
+      "section": "reading",
+      "part": 2,
+      "answer": "D",
+      "image_asset_ids": []
+    },
+    {
+      "number": 31,
+      "section": "reading",
+      "part": 3,
+      "answer": "C",
+      "image_asset_ids": []
+    },
+    {
+      "number": 32,
+      "section": "reading",
+      "part": 3,
+      "answer": "D",
+      "image_asset_ids": []
+    },
+    {
+      "number": 33,
+      "section": "reading",
+      "part": 3,
+      "answer": "B",
+      "image_asset_ids": []
+    },
+    {
+      "number": 34,
+      "section": "reading",
+      "part": 3,
+      "answer": "A",
+      "image_asset_ids": []
+    },
+    {
+      "number": 35,
+      "section": "reading",
+      "part": 3,
+      "answer": "E",
+      "image_asset_ids": []
+    },
+    {
+      "number": 36,
+      "section": "reading",
+      "part": 4,
+      "answer": "C",
+      "image_asset_ids": []
+    },
+    {
+      "number": 37,
+      "section": "reading",
+      "part": 4,
+      "answer": "E",
+      "image_asset_ids": []
+    },
+    {
+      "number": 38,
+      "section": "reading",
+      "part": 4,
+      "answer": "F",
+      "image_asset_ids": []
+    },
+    {
+      "number": 39,
+      "section": "reading",
+      "part": 4,
+      "answer": "A",
+      "image_asset_ids": []
+    },
+    {
+      "number": 40,
+      "section": "reading",
+      "part": 4,
+      "answer": "B",
+      "image_asset_ids": []
+    }
+  ]
+}

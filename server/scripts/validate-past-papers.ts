@@ -38,8 +38,10 @@ function main(): void {
             // For single_choice / drag_fill: check answer key exists in options
             if (q.question_type === "single_choice" || q.question_type === "drag_fill") {
                 const options = (q.payload as { options?: Array<{ key: string }> }).options ?? [];
-                if (options.length < 4) {
-                    errors.push(`${section.code}[${i}]: expected at least 4 options, got ${options.length}`);
+                // HSK 1/2 legitimately have three-option items; HSK 6 has four or five.
+                const minimumOptions = raw.session?.startsWith("h6") ? 4 : 2;
+                if (options.length < minimumOptions) {
+                    errors.push(`${section.code}[${i}]: expected at least ${minimumOptions} options, got ${options.length}`);
                 }
                 const answerValue = (q.answer as { value?: string }).value;
                 if (answerValue && !options.some((o) => o.key === answerValue)) {

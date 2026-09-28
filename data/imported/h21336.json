@@ -1,0 +1,1990 @@
+{
+  "paper_type": "past",
+  "title": "HSK 二级真题 21336",
+  "year": null,
+  "session": "h21336",
+  "duration_seconds": 3300,
+  "total_score": 200,
+  "passing_score": 120,
+  "sections": [
+    {
+      "code": "listening",
+      "title": "听力",
+      "duration_seconds": 1500,
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 1 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 2,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 2 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": false
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 3,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 3 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 4,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 4 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 5,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 5 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": false
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 6,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 6 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 7,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 7 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": false
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 8,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 8 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 9,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 9 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": false
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 10,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 10 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 11,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "E"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 12,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "F"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 13,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 14,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 15,
+          "question_type": "single_choice",
+          "stem": "第16-20题",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 16,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 17,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 18,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              }
+            ]
+          },
+          "answer": {
+            "value": "E"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 19,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 20,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 21,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "同学"
+              },
+              {
+                "key": "B",
+                "text": "爸爸"
+              },
+              {
+                "key": "C",
+                "text": "妹妹"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 22,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "要去打球"
+              },
+              {
+                "key": "B",
+                "text": "唱得不好"
+              },
+              {
+                "key": "C",
+                "text": "工作太忙"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 23,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "电脑"
+              },
+              {
+                "key": "B",
+                "text": "手表"
+              },
+              {
+                "key": "C",
+                "text": "手机"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 24,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "很热"
+              },
+              {
+                "key": "B",
+                "text": "阴天了"
+              },
+              {
+                "key": "C",
+                "text": "有点儿冷"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 25,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "做题"
+              },
+              {
+                "key": "B",
+                "text": "吃苹果"
+              },
+              {
+                "key": "C",
+                "text": "找铅笔"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 26,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "家里"
+              },
+              {
+                "key": "B",
+                "text": "商店"
+              },
+              {
+                "key": "C",
+                "text": "宾馆"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 27,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "累了"
+              },
+              {
+                "key": "B",
+                "text": "生病了"
+              },
+              {
+                "key": "C",
+                "text": "不太高兴"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 28,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "老师"
+              },
+              {
+                "key": "B",
+                "text": "医生"
+              },
+              {
+                "key": "C",
+                "text": "服务员"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 29,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "公司"
+              },
+              {
+                "key": "B",
+                "text": "机场"
+              },
+              {
+                "key": "C",
+                "text": "火车站"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 30,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "看不懂"
+              },
+              {
+                "key": "B",
+                "text": "时间多"
+              },
+              {
+                "key": "C",
+                "text": "看过一次"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 31,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "名字"
+              },
+              {
+                "key": "B",
+                "text": "时间"
+              },
+              {
+                "key": "C",
+                "text": "房间 号"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 32,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "跑步"
+              },
+              {
+                "key": "B",
+                "text": "吃饭"
+              },
+              {
+                "key": "C",
+                "text": "买 鸡蛋"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 33,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "游泳馆 外"
+              },
+              {
+                "key": "B",
+                "text": "饭店 门 前"
+              },
+              {
+                "key": "C",
+                "text": "学校 后面"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 34,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "朋友 介绍"
+              },
+              {
+                "key": "B",
+                "text": "他们是 同学"
+              },
+              {
+                "key": "C",
+                "text": "一起 跳过 舞"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2.857142857142857
+        },
+        {
+          "number": 35,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "很贵"
+              },
+              {
+                "key": "B",
+                "text": "不 好看"
+              },
+              {
+                "key": "C",
+                "text": "比黑的好"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2.857142857142857
+        }
+      ],
+      "groups": [
+        {
+          "key": "part-1",
+          "instruction": "第 1-10 题：每题听两次，根据图片判断对错。",
+          "material": "第1-10题\n--- page 3 ---\n6.\n7.\n8.\n9.\n10.\n--- page 4 ---",
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "payload": {
+            "partNumber": 1,
+            "image_asset_ids": [
+              "asset-h21336-listening-part-1-page-2",
+              "asset-h21336-listening-part-1-page-3"
+            ]
+          }
+        },
+        {
+          "key": "part-2",
+          "instruction": "第 11-20 题：每题听两次，根据对话选出对应图片。",
+          "material": "第11-15题\nA\nB\nC\nD\nE\nF\nNǐ xǐhuan shénme yùndòng?\n例如：男：你喜欢什么运动？\nWǒ zuì xǐhuan tǐ zúqiú.\n女：我最喜欢踢足球。\nD\n11.\n12.\n13.\n14.\n15.\n--- page 5 ---\n第16-20题\nA\nB\nC\nD\nE\n16.\n17.\n18.\n19.\n20.\n--- page 6 ---",
+          "questionNumbers": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "payload": {
+            "partNumber": 2,
+            "image_asset_ids": [
+              "asset-h21336-listening-part-2-page-4",
+              "asset-h21336-listening-part-2-page-5"
+            ]
+          }
+        },
+        {
+          "key": "part-3",
+          "instruction": "第 21-30 题：每题听两次，根据问题选出正确答案。",
+          "material": "第21-30题\nhóngsèhēisèbáisè\nA 红色 √B 黑色C 白色\ntóngxuébàbamèimei\n21.A 同学B 爸爸C 妹妹\nyào qù dǎ qiúchàngde bù hǎogōngzuò tài máng\n22.A 要去打球B 唱得不好C 工作太忙\ndiànnǎoshǒubiǎoshǒujī\n23.A 电脑B 手表C 手机\nhěn rèyīntiān leyǒu diǎnr lěng\n24.A 很热B 阴天了C 有点儿冷\nzuò tíchī píngguǒzhǎo qiānbǐ\n25.A 做题B 吃苹果C 找铅笔\njiā lishāngdiànbīnguǎn\n26.A 家里B 商店C 宾馆\nlèi leshēngbìng lebú tài gāoxìng\n27.A 累了B 生病了C 不太高兴\nlǎoshīyīshēngfúwùyuán\n28.A 老师B 医生C 服务员\ngōngsījīchǎnghuǒchēzhàn\n29.A 公司B 机场C 火车站\nkànbudǒngshíjiān duōkànguo yí cì\n30.A 看不懂B 时间多C 看过一次\n--- page 7 ---",
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "payload": {
+            "partNumber": 3,
+            "image_asset_ids": [
+              "asset-h21336-listening-part-3-page-6"
+            ]
+          }
+        },
+        {
+          "key": "part-4",
+          "instruction": "第 31-35 题：每题听两次，根据对话选出正确答案。",
+          "material": "第31-35题\n例如：女： 请 在这儿写您的名字。\nShì zhèr ma?\n男： 是这儿吗？\nBú shì, shì zhèr.\n女： 不是，是这儿。\nHǎo, xièxie.\n男： 好，谢谢。\nNánde yào xiě shénme?\n问： 男的 要写 什么？\nmíngzishíjiānfángjiān hào\nA 名字 √B 时间C 房间 号\n31.pǎobùchī fànmǎi jīdàn\nA 跑步B 吃饭C 买 鸡蛋\n32.yóuyǒngguǎn wàifàndiàn mén qiánxuéxiào hòumiàn\nA 游泳馆 外B 饭店 门 前C 学校 后面\n33.péngyou jièshàotāmen shì tóngxuéyìqǐ tiàoguo wǔ\nA 朋友 介绍B 他们是 同学C 一起 跳过 舞\n34.hěn guìbù hǎokànbǐ hēi de hǎo\nA 很贵B 不 好看C 比黑的好\n35.suìsuìsuì\nA 4岁B 8岁C 10岁\n--- page 8 ---\n--- page 9 ---\nB\nD\nF\nA\nC\nE\nMěi ge xīngqīliù, wǒ dōu qù dǎ lángiú.\n例如：每个星期六，我都去打篮球。\nMǎi liǎng ge kěyǐ gěi nín piányi diǎnr.",
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ],
+          "payload": {
+            "partNumber": 4,
+            "image_asset_ids": [
+              "asset-h21336-listening-part-4-page-7"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "reading",
+      "title": "阅读",
+      "duration_seconds": 1320,
+      "questions": [
+        {
+          "number": 36,
+          "question_type": "single_choice",
+          "stem": "买两个可以给您便宜点儿。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 4
+        },
+        {
+          "number": 37,
+          "question_type": "single_choice",
+          "stem": "你再看看，这里是不是写错了？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "F"
+          },
+          "score": 4
+        },
+        {
+          "number": 38,
+          "question_type": "single_choice",
+          "stem": "面条儿还很热，你慢点儿吃。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 4
+        },
+        {
+          "number": 39,
+          "question_type": "single_choice",
+          "stem": "我的手表怎么不走了？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "E"
+          },
+          "score": 4
+        },
+        {
+          "number": 40,
+          "question_type": "single_choice",
+          "stem": "大家看我这儿，笑一笑。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 4
+        },
+        {
+          "number": 41,
+          "question_type": "single_choice",
+          "stem": "我希望这次考试能（）上次考得好。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "第一"
+              },
+              {
+                "key": "B",
+                "text": "完"
+              },
+              {
+                "key": "C",
+                "text": "比"
+              },
+              {
+                "key": "D",
+                "text": "觉得"
+              },
+              {
+                "key": "E",
+                "text": "贵"
+              },
+              {
+                "key": "F",
+                "text": "晚上"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 4
+        },
+        {
+          "number": 42,
+          "question_type": "single_choice",
+          "stem": "喝（）牛奶就去睡觉吧。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 4
+        },
+        {
+          "number": 43,
+          "question_type": "single_choice",
+          "stem": "我昨天踢了一下午球，到现在还（）很累。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 4
+        },
+        {
+          "number": 44,
+          "question_type": "single_choice",
+          "stem": "给你票，6号（）的。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "F"
+          },
+          "score": 4
+        },
+        {
+          "number": 45,
+          "question_type": "single_choice",
+          "stem": "女：这件衣服不错，新买的？ 男：不是，去年就买了，但今天是（）次穿。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 4
+        },
+        {
+          "number": 46,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "第 46 题",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": false
+          },
+          "score": 4
+        },
+        {
+          "number": 47,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "长时间坐着对身体不好，中午休息时多出去 走走，运动运动。 ★不要长时间坐着。 ( )",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 4
+        },
+        {
+          "number": 48,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "9月是北京天气最好的时候，不冷也不热，很多 人都喜欢在这个时间去北京旅游。 ★9月去北京的人很少。 ( )",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": false
+          },
+          "score": 4
+        },
+        {
+          "number": 49,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "东西 给 你，你 在 这 儿 等 着 我，我 去 问 问 到 火车站 怎么 走。 ★他 不 知 道 去 火车站 的 路。 ( )",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 4
+        },
+        {
+          "number": 50,
+          "question_type": "true_false",
+          "stem": "",
+          "payload": {
+            "display_text": "我 妻 子 很 会 做 菜，她 做 的 羊肉 大家 都 爱 吃 。你 吃 吃 看 ， 我 觉 你 也 会 喜 欢 的 。 ★他 妻 子 做 的 羊肉 很 好 吃 。 ( )",
+            "true_label": "对",
+            "false_label": "错"
+          },
+          "answer": {
+            "value": true
+          },
+          "score": 4
+        },
+        {
+          "number": 51,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 4
+        },
+        {
+          "number": 52,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 4
+        },
+        {
+          "number": 53,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "F"
+          },
+          "score": 4
+        },
+        {
+          "number": 54,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 4
+        },
+        {
+          "number": 55,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 4
+        },
+        {
+          "number": 56,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 4
+        },
+        {
+          "number": 57,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 4
+        },
+        {
+          "number": 58,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "E"
+          },
+          "score": 4
+        },
+        {
+          "number": 59,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 4
+        },
+        {
+          "number": 60,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图片 A"
+              },
+              {
+                "key": "B",
+                "text": "图片 B"
+              },
+              {
+                "key": "C",
+                "text": "图片 C"
+              },
+              {
+                "key": "D",
+                "text": "图片 D"
+              },
+              {
+                "key": "E",
+                "text": "图片 E"
+              },
+              {
+                "key": "F",
+                "text": "图片 F"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 4
+        }
+      ],
+      "groups": [
+        {
+          "key": "part-1",
+          "instruction": "第 36-40 题：根据句子选出对应图片。",
+          "material": "36. 买两个可以给您便宜点儿。\nNǐ zài kànkan, zhèi shìbushì xiěcuò le?\n37. 你再看看，这里是不是写错了？\nMiàntiáor hái hěn rè, nǐ màn diǎnr chī.\n38. 面条儿还很热，你慢点儿吃。\nWǒ de shǒubiǎo zěnme bù zǒu le?\n39. 我的手表怎么不走了？\nDàjiā kàn wǒ zhèr, xiàoyíxiào.\n40. 大家看我这儿，笑一笑。\n--- page 10 ---\n第二部分",
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "payload": {
+            "partNumber": 1,
+            "image_asset_ids": [
+              "asset-h21336-reading-part-1-page-2",
+              "asset-h21336-reading-part-1-page-3"
+            ]
+          }
+        },
+        {
+          "key": "part-2",
+          "instruction": "第 41-45 题：选词填空。",
+          "material": "第41-45题\ndī-yī wán bǐ juéde guì wǎnshang\nA 第一 B 完 C 比 D 觉得 E 贵 F 晚上\nZhèr de yángròu hěn hǎochī, dànshì yě hěn\n例如：这儿的羊肉很好吃，但是也很（E）。\nWǒ xīwàng zhè cì kǎoshì néng shàng cì kǎodehǎo.\n41. 我希望这次考试能（）上次考得好。\nHē niúnǎi jiù qù shuìjiào ba.\n42. 喝（）牛奶就去睡觉吧。\nWǒ zuótiān tǐle yí xiàwǔ qiú, dào xiànzài hái hěn lèi.\n43. 我昨天踢了一下午球，到现在还（）很累。\nGěi nǐ piào, hào de.\n44. 给你票，6号（）的。\nZhè jiàn yǐfu búcuò, xīn mǎi de?\n45. 女：这件衣服不错，新买的？\nBú shì, qùnián jiù mǎi le, dàn jīntiān shì cì chuān.\n男：不是，去年就买了，但今天是（）次穿。\n--- page 11 ---\n第三部分",
+          "questionNumbers": [
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "payload": {
+            "partNumber": 2,
+            "image_asset_ids": [
+              "asset-h21336-reading-part-2-page-4",
+              "asset-h21336-reading-part-2-page-5"
+            ]
+          }
+        },
+        {
+          "key": "part-3",
+          "instruction": "第 46-50 题：判断第二句与第一句是否一致。",
+          "material": "第46-50题\nXiànzài shì diǎn fēn, tāmen yǐjīng yóule fēnzhōng le.\n例如：现在是11点30分，他们已经游了20分钟了。\nTāmen diǎn fēn kāishǐ yóuyǒng.\n★他们11点10分开始游泳。\n(√)\nWǒ huì tiàowǔ, dàn tiàode bù zěnmeyàng.\n我会跳舞，但跳得不怎么样。\nTā tiàode fēicháng hǎo.\n★她跳得非常好。\n(×)\nDuìbuqǐ, nǐ rèncuò rén le, wǒ shì yīshēng, dàn wǒ bú xìng Gāo,\n对不起，你认错人了，我是医生，但我不姓高，\nwǒ xìng Wáng.\n我姓王。\nTā shì yí ge lǎoshī.\n★他是一个老师。\n( )\nCháng shíjiān zuòzhe duì shēnǐ bù hǎo, zhōngwǔ xiūxi shí duō chūqu\n47. 长时间坐着对身体不好，中午休息时多出去\nzǒuzou, yùndòng yùndòng.\n走走，运动运动。\nBú yào cháng shíjiān zuòzhe.\n★不要长时间坐着。\n( )\nyuè shì Běijīng tiānqì zuì hǎo de shíhou, bù lěng yě bú rè, hěn duō\n48. 9月是北京天气最好的时候，不冷也不热，很多\nrén dōu xǐhuan zài zhège shíjiān qù Běijīng lǚyóu.\n人都喜欢在这个时间去北京旅游。\nyuè qù Běijīng de rén hěn shǎo.\n★9月去北京的人很少。\n( )\n--- page 12 ---\nDōngxī gěi nǐ, nǐ zài zhèr děngzhe wǒ, wǒ qù wènwen dào huǒchēzhàn\n49. 东西 给 你，你 在 这 儿 等 着 我，我 去 问 问 到 火车站\nzěnme zǒu.\n怎么 走。\nTā bù zhīdào qù huǒchēzhàn de lù.\n★他 不 知 道 去 火车站 的 路。\n( )\nWǒ qīzi hěn huì zuò cài, tā zuò de yángròu dàjiā dōu ài chī. Nǐ\n50. 我 妻 子 很 会 做 菜，她 做 的 羊肉 大家 都 爱 吃 。你\nchīchì kàn, wǒ juéde nǐ yě huì xǐhuàn de.\n吃 吃 看 ， 我 觉 你 也 会 喜 欢 的 。\nTā qīzi zuò de yángròu hěn hǎochī.\n★他 妻 子 做 的 羊肉 很 好 吃 。\n( )\n--- page 13 ---\n第四部分",
+          "questionNumbers": [
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "payload": {
+            "partNumber": 3,
+            "image_asset_ids": [
+              "asset-h21336-reading-part-3-page-6"
+            ]
+          }
+        },
+        {
+          "key": "part-4",
+          "instruction": "第 51-60 题：为句子选择对应表达。",
+          "material": "第51-55题\ndiǎn le, nǐ hái bù qǐchuáng?\nA 7 点了，你还不起床？\nB\nBú jìn, zuò gōnggòngqìchē yào yí ge xiǎoshí.\nB 不近，坐公共汽车要一个小时。\nC\nZǎoshang yǔ xiàde nàme dà, méi xiǎngdào zhème kuài jù bú xià le.\nC 早上雨下得那么大，没想到这么快就不下了。\nD\nDuìbuqǐ, wǒ wǎnshang yǒu shì, bù néng qù kàn diànyǐng le.\nD 对不起，我晚上有事，不能去看电影了。\nE\nTā zài nǎr ne? Nǐ kànjiàn tā le ma?\nE 他在哪儿呢？你看见他了吗？\nF 姐，你想喝什么？\nTā hái zài jiàoshì li xuéxí.\n例如：他还在教室里学习。\n例如：他还在\n--- page 14 ---\n第56-60题\nA 不少，我星期日走，我弟弟会送我。\nB 等李进回来，我让他打给您。\nC 不好意思，小姐，我这就去帮您问问。\nD 你知道北大医院怎么走吗？\nE 可能是因为我每天都来看它吧。\nFúwùyuán, wǒ yào de mǐfàn zěnme hái méi lái?\n服务员，我要的米饭怎么还没来？\nWǒ xiǎng míngtiān shàngwǔ qù nàr kàn yǎnjìng.\n我想明天上午去那儿看眼睛。\nWǒ jiā de xiǎo māo hěn xǐhuān nǐ.\n我家的小猫很喜欢你。\nNǐ nǎ tiān de fēijī? Dōngxi duōbuduō?\n你哪天的飞机？东西多不多？\nNín zài zhèr xiě yíxià míngzì hé diànhuà.\n您在这儿写一下名字和电话。",
+          "questionNumbers": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "payload": {
+            "partNumber": 4,
+            "image_asset_ids": [
+              "asset-h21336-reading-part-4-page-7"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset-h21336-audio",
+      "asset_type": "audio",
+      "storage_key": "data/HSK2级真题 30套/21336/H21336.mp3",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-audio",
+      "mime_type": "audio/mpeg",
+      "usage": "full_listening_audio"
+    },
+    {
+      "id": "asset-h21336-listening-part-1-page-2",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/listening-part-1-page-2.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-listening-part-1-page-2",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 56166
+    },
+    {
+      "id": "asset-h21336-listening-part-1-page-3",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/listening-part-1-page-3.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-listening-part-1-page-3",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 46531
+    },
+    {
+      "id": "asset-h21336-listening-part-2-page-4",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/listening-part-2-page-4.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-listening-part-2-page-4",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 51033
+    },
+    {
+      "id": "asset-h21336-listening-part-2-page-5",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/listening-part-2-page-5.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-listening-part-2-page-5",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 40770
+    },
+    {
+      "id": "asset-h21336-listening-part-3-page-6",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/listening-part-3-page-6.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-listening-part-3-page-6",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 77574
+    },
+    {
+      "id": "asset-h21336-listening-part-4-page-7",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/listening-part-4-page-7.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-listening-part-4-page-7",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 61473
+    },
+    {
+      "id": "asset-h21336-reading-part-1-page-2",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/reading-part-1-page-2.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-reading-part-1-page-2",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 56166
+    },
+    {
+      "id": "asset-h21336-reading-part-1-page-3",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/reading-part-1-page-3.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-reading-part-1-page-3",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 46531
+    },
+    {
+      "id": "asset-h21336-reading-part-2-page-4",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/reading-part-2-page-4.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-reading-part-2-page-4",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 51033
+    },
+    {
+      "id": "asset-h21336-reading-part-2-page-5",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/reading-part-2-page-5.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-reading-part-2-page-5",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 40770
+    },
+    {
+      "id": "asset-h21336-reading-part-3-page-6",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/reading-part-3-page-6.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-reading-part-3-page-6",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 77574
+    },
+    {
+      "id": "asset-h21336-reading-part-4-page-7",
+      "asset_type": "image",
+      "storage_key": "data/assets/images/h21336/reading-part-4-page-7.jpg",
+      "url": "/api/papers/paper-h21336/assets/asset-h21336-reading-part-4-page-7",
+      "mime_type": "image/jpeg",
+      "usage": "part_image",
+      "file_size": 61473
+    }
+  ]
+}

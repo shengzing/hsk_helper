@@ -180,6 +180,10 @@ export interface QuestionGroupPart {
 export interface QuestionGroupPayload {
   partNumber?: number;
   parts?: QuestionGroupPart[];
+  image_asset_ids?: string[];
+  question_image_asset_ids?: Record<string, string[]>;
+  question_option_image_asset_ids?: Record<string, Record<string, string>>;
+  option_image_asset_ids?: Record<string, string>;
   [key: string]: unknown;
 }
 

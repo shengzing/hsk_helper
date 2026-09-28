@@ -111,6 +111,31 @@ npm run extract:docs --workspace server
 - `data/answers/`
 - `data/imported/`
 
+### 从 `data/` 提取 HSK1/2 真题包
+
+```bash
+npm run extract:data
+```
+
+输出会写入 `data/extracted/`、`data/answers/`、`data/imported/`，并在
+`docs/plans/data-dir-extraction-report.md` 记录完整卷、缺口卷和音频/答案覆盖情况。
+
+### 提取 HSK1 图片题答案
+
+```bash
+npm run extract:image-answers
+```
+
+输出会写入 `data/image-answers/`，并把单题图片保存到 `data/assets/images/<paper>/individual/`。
+
+### 导入 HSK1/2 真题到 SQLite
+
+```bash
+npm run import:data
+```
+
+导入前建议先备份 `data/app.db`。WMA 听力音频已统一转成 MP3，输出在 `data/media/`。
+
 ### 导入 SQLite
 
 ```bash
