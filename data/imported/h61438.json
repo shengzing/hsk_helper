@@ -1,0 +1,3404 @@
+{
+  "paper_type": "past",
+  "title": "HSK 六级真题 H61438",
+  "year": 2013,
+  "session": "h61438",
+  "duration_seconds": 8400,
+  "total_score": 300,
+  "passing_score": 180,
+  "sections": [
+    {
+      "code": "listening",
+      "title": "听力",
+      "duration_seconds": 2100,
+      "questions": [
+        {
+          "number": 1,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "成年人才有生物钟"
+              },
+              {
+                "key": "B",
+                "text": "年纪小的人对时差没有感觉"
+              },
+              {
+                "key": "C",
+                "text": "年纪大的人时差问题较严重"
+              },
+              {
+                "key": "D",
+                "text": "人的适应能力与年龄成正比"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 C「年纪大的人时差问题较严重」与录音内容一致。"
+        },
+        {
+          "number": 2,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "写作前必须多阅读"
+              },
+              {
+                "key": "B",
+                "text": "写作有助于人们的交流"
+              },
+              {
+                "key": "C",
+                "text": "写作可以锻炼人的意志"
+              },
+              {
+                "key": "D",
+                "text": "写作是健康生活的基础"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 B「写作有助于人们的交流」与录音内容一致。"
+        },
+        {
+          "number": 3,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "要节约用电"
+              },
+              {
+                "key": "B",
+                "text": "夏季要少开空调"
+              },
+              {
+                "key": "C",
+                "text": "要定期检查电路板"
+              },
+              {
+                "key": "D",
+                "text": "要注意家电的散热问题"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 D「要注意家电的散热问题」与录音内容一致。"
+        },
+        {
+          "number": 4,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "人的潜能有限"
+              },
+              {
+                "key": "B",
+                "text": "积累经验很重要"
+              },
+              {
+                "key": "C",
+                "text": "潜能的激发与环境有关"
+              },
+              {
+                "key": "D",
+                "text": "思维定式会影响潜能发挥"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 D「思维定式会影响潜能发挥」与录音内容一致。"
+        },
+        {
+          "number": 5,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "那家餐厅不卖蘑菇"
+              },
+              {
+                "key": "B",
+                "text": "客人拿到了需要的东西"
+              },
+              {
+                "key": "C",
+                "text": "服务员误解了客人的意思"
+              },
+              {
+                "key": "D",
+                "text": "客人对餐厅的服务很满意"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 C「服务员误解了客人的意思」与录音内容一致。"
+        },
+        {
+          "number": 6,
+          "question_type": "single_choice",
+          "stem": "H61438 - 1",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "济南山脉众多"
+              },
+              {
+                "key": "B",
+                "text": "济南泉水水质好"
+              },
+              {
+                "key": "C",
+                "text": "济南的人口稀少"
+              },
+              {
+                "key": "D",
+                "text": "济南常年温暖湿润"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 B「济南泉水水质好」与录音内容一致。"
+        },
+        {
+          "number": 7,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "萧纲不爱读书"
+              },
+              {
+                "key": "B",
+                "text": "萧纲视力很差"
+              },
+              {
+                "key": "C",
+                "text": "一目十行形容人看书快"
+              },
+              {
+                "key": "D",
+                "text": "一目十行不是读书的好习惯"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 C「一目十行形容人看书快」与录音内容一致。"
+        },
+        {
+          "number": 8,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "泡功夫茶并不费事"
+              },
+              {
+                "key": "B",
+                "text": "练武的人爱喝功夫茶"
+              },
+              {
+                "key": "C",
+                "text": "功夫茶沏泡方式比较讲究"
+              },
+              {
+                "key": "D",
+                "text": "功夫茶是一种名贵的茶叶"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 C「功夫茶沏泡方式比较讲究」与录音内容一致。"
+        },
+        {
+          "number": 9,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "北极熊很会伪装"
+              },
+              {
+                "key": "B",
+                "text": "北极熊濒临灭绝"
+              },
+              {
+                "key": "C",
+                "text": "北极熊的毛能折射阳光"
+              },
+              {
+                "key": "D",
+                "text": "北极熊的毛会变成黑色"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 C「北极熊的毛能折射阳光」与录音内容一致。"
+        },
+        {
+          "number": 10,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "要持之以恒"
+              },
+              {
+                "key": "B",
+                "text": "细节决定成败"
+              },
+              {
+                "key": "C",
+                "text": "要敢于接受挑战"
+              },
+              {
+                "key": "D",
+                "text": "挫折也可助我们成功"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 D「挫折也可助我们成功」与录音内容一致。"
+        },
+        {
+          "number": 11,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "压缩饼干营养低"
+              },
+              {
+                "key": "B",
+                "text": "压缩饼干易吸水"
+              },
+              {
+                "key": "C",
+                "text": "食用压缩饼干更耐饿"
+              },
+              {
+                "key": "D",
+                "text": "制作压缩饼干的面粉很特殊"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 C「食用压缩饼干更耐饿」与录音内容一致。"
+        },
+        {
+          "number": 12,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "傍晚最适合运动"
+              },
+              {
+                "key": "B",
+                "text": "锻炼要量力而为"
+              },
+              {
+                "key": "C",
+                "text": "多锻炼能预防心脏病"
+              },
+              {
+                "key": "D",
+                "text": "早晨人的血压最平稳"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 A「傍晚最适合运动」与录音内容一致。"
+        },
+        {
+          "number": 13,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "臭氧有辐射"
+              },
+              {
+                "key": "B",
+                "text": "臭氧层正遭到破坏"
+              },
+              {
+                "key": "C",
+                "text": "大气中的臭氧含量很高"
+              },
+              {
+                "key": "D",
+                "text": "臭氧层减轻了紫外线的危害"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 D「臭氧层减轻了紫外线的危害」与录音内容一致。"
+        },
+        {
+          "number": 14,
+          "question_type": "single_choice",
+          "stem": "H61438 - 2 第二部分 第 16-30 题：请选出正确答案。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "小麦的抗旱性差"
+              },
+              {
+                "key": "B",
+                "text": "冬天小麦需水量大"
+              },
+              {
+                "key": "C",
+                "text": "夜间不宜给小麦浇水"
+              },
+              {
+                "key": "D",
+                "text": "适时浇水能帮小麦安全过冬"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 D「适时浇水能帮小麦安全过冬」与录音内容一致。"
+        },
+        {
+          "number": 15,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "要善于发现商机"
+              },
+              {
+                "key": "B",
+                "text": "餐饮业竞争很大"
+              },
+              {
+                "key": "C",
+                "text": "创业要从大做起"
+              },
+              {
+                "key": "D",
+                "text": "自主创业风险高"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第一部分。第一部分要求选出与所听内容一致的一项，请仔细比对各选项与录音内容的细微差别。选项 A「要善于发现商机」与录音内容一致。"
+        },
+        {
+          "number": 16,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "利大于弊"
+              },
+              {
+                "key": "B",
+                "text": "还需时间"
+              },
+              {
+                "key": "C",
+                "text": "希望渺茫"
+              },
+              {
+                "key": "D",
+                "text": "已真正进入"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「还需时间」与录音内容一致。"
+        },
+        {
+          "number": 17,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "将军"
+              },
+              {
+                "key": "B",
+                "text": "乐队指挥"
+              },
+              {
+                "key": "C",
+                "text": "声乐老师"
+              },
+              {
+                "key": "D",
+                "text": "幕后英雄"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「乐队指挥」与录音内容一致。"
+        },
+        {
+          "number": 18,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "应变能力"
+              },
+              {
+                "key": "B",
+                "text": "演出经验"
+              },
+              {
+                "key": "C",
+                "text": "与角色的相似度"
+              },
+              {
+                "key": "D",
+                "text": "对角色的理解是否到位"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 C「与角色的相似度」与录音内容一致。"
+        },
+        {
+          "number": 19,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "多读专业书籍"
+              },
+              {
+                "key": "B",
+                "text": "慎重挑选剧本"
+              },
+              {
+                "key": "C",
+                "text": "多翻拍经典影片"
+              },
+              {
+                "key": "D",
+                "text": "把作品放映给别人看"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「把作品放映给别人看」与录音内容一致。"
+        },
+        {
+          "number": 20,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "已经退休了"
+              },
+              {
+                "key": "B",
+                "text": "没获过国际大奖"
+              },
+              {
+                "key": "C",
+                "text": "多次参与电影评选"
+              },
+              {
+                "key": "D",
+                "text": "毕业于北京电影学院"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 C「多次参与电影评选」与录音内容一致。"
+        },
+        {
+          "number": 21,
+          "question_type": "single_choice",
+          "stem": "H61438 - 3",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "简洁明朗"
+              },
+              {
+                "key": "B",
+                "text": "大胆奔放"
+              },
+              {
+                "key": "C",
+                "text": "绚丽多彩"
+              },
+              {
+                "key": "D",
+                "text": "古朴典雅"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「简洁明朗」与录音内容一致。"
+        },
+        {
+          "number": 22,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "有感而发"
+              },
+              {
+                "key": "B",
+                "text": "主题鲜明"
+              },
+              {
+                "key": "C",
+                "text": "浓墨重彩"
+              },
+              {
+                "key": "D",
+                "text": "一气呵成"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「有感而发」与录音内容一致。"
+        },
+        {
+          "number": 23,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "很失落"
+              },
+              {
+                "key": "B",
+                "text": "很吃惊"
+              },
+              {
+                "key": "C",
+                "text": "不以为然"
+              },
+              {
+                "key": "D",
+                "text": "半信半疑"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「很吃惊」与录音内容一致。"
+        },
+        {
+          "number": 24,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "相通性"
+              },
+              {
+                "key": "B",
+                "text": "创新性"
+              },
+              {
+                "key": "C",
+                "text": "传承性"
+              },
+              {
+                "key": "D",
+                "text": "包容性"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「相通性」与录音内容一致。"
+        },
+        {
+          "number": 25,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "棋艺高超"
+              },
+              {
+                "key": "B",
+                "text": "写过武侠小说"
+              },
+              {
+                "key": "C",
+                "text": "是自学的太极拳"
+              },
+              {
+                "key": "D",
+                "text": "对书法很有研究"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「对书法很有研究」与录音内容一致。"
+        },
+        {
+          "number": 26,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "主持"
+              },
+              {
+                "key": "B",
+                "text": "新闻"
+              },
+              {
+                "key": "C",
+                "text": "体育"
+              },
+              {
+                "key": "D",
+                "text": "教育"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「新闻」与录音内容一致。"
+        },
+        {
+          "number": 27,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "压力更大了"
+              },
+              {
+                "key": "B",
+                "text": "实践活动少了"
+              },
+              {
+                "key": "C",
+                "text": "体能不如从前了"
+              },
+              {
+                "key": "D",
+                "text": "可自由支配时间变多"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「可自由支配时间变多」与录音内容一致。"
+        },
+        {
+          "number": 28,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "纯属巧合"
+              },
+              {
+                "key": "B",
+                "text": "特别辛苦"
+              },
+              {
+                "key": "C",
+                "text": "有点儿后悔"
+              },
+              {
+                "key": "D",
+                "text": "是父母的意愿"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「纯属巧合」与录音内容一致。"
+        },
+        {
+          "number": 29,
+          "question_type": "single_choice",
+          "stem": "H61438 - 4 第三部分 第 31-50 题：请选出正确答案。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "常看体育节目"
+              },
+              {
+                "key": "B",
+                "text": "对体操了解很少"
+              },
+              {
+                "key": "C",
+                "text": "对女儿期望很高"
+              },
+              {
+                "key": "D",
+                "text": "曾反对女儿练体操"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「对体操了解很少」与录音内容一致。"
+        },
+        {
+          "number": 30,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "非常孝顺"
+              },
+              {
+                "key": "B",
+                "text": "想继续比赛"
+              },
+              {
+                "key": "C",
+                "text": "是平衡木教练"
+              },
+              {
+                "key": "D",
+                "text": "很喜欢大学生活"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第二部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「很喜欢大学生活」与录音内容一致。"
+        },
+        {
+          "number": 31,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "很担心"
+              },
+              {
+                "key": "B",
+                "text": "很惭愧"
+              },
+              {
+                "key": "C",
+                "text": "特别伤心"
+              },
+              {
+                "key": "D",
+                "text": "非常自豪"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「很担心」与录音内容一致。"
+        },
+        {
+          "number": 32,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "撕了下来"
+              },
+              {
+                "key": "B",
+                "text": "修改了一下"
+              },
+              {
+                "key": "C",
+                "text": "在上面作画"
+              },
+              {
+                "key": "D",
+                "text": "用新对联盖住了"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「修改了一下」与录音内容一致。"
+        },
+        {
+          "number": 33,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "是著名画家"
+              },
+              {
+                "key": "B",
+                "text": "擅长写对联"
+              },
+              {
+                "key": "C",
+                "text": "后来虚心向学"
+              },
+              {
+                "key": "D",
+                "text": "不喜欢听取别人的意见"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 C「后来虚心向学」与录音内容一致。"
+        },
+        {
+          "number": 34,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "效率降低"
+              },
+              {
+                "key": "B",
+                "text": "运转更快"
+              },
+              {
+                "key": "C",
+                "text": "产生疲劳感"
+              },
+              {
+                "key": "D",
+                "text": "消耗更多能量"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「效率降低」与录音内容一致。"
+        },
+        {
+          "number": 35,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "需要耐心"
+              },
+              {
+                "key": "B",
+                "text": "要集中精神"
+              },
+              {
+                "key": "C",
+                "text": "要低速慢行"
+              },
+              {
+                "key": "D",
+                "text": "要注意收听路况信息"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「要集中精神」与录音内容一致。"
+        },
+        {
+          "number": 36,
+          "question_type": "single_choice",
+          "stem": "H61438 - 5",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "缺氧"
+              },
+              {
+                "key": "B",
+                "text": "头痛"
+              },
+              {
+                "key": "C",
+                "text": "反应变慢"
+              },
+              {
+                "key": "D",
+                "text": "视力模糊"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 C「反应变慢」与录音内容一致。"
+        },
+        {
+          "number": 37,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "如何应对突发情况"
+              },
+              {
+                "key": "B",
+                "text": "什么是“双任务干扰”"
+              },
+              {
+                "key": "C",
+                "text": "车载电话流行的原因"
+              },
+              {
+                "key": "D",
+                "text": "为什么开车打电话不安全"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「为什么开车打电话不安全」与录音内容一致。"
+        },
+        {
+          "number": 38,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "绣工细致"
+              },
+              {
+                "key": "B",
+                "text": "针法繁琐"
+              },
+              {
+                "key": "C",
+                "text": "结实美观"
+              },
+              {
+                "key": "D",
+                "text": "柔软舒适"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「绣工细致」与录音内容一致。"
+        },
+        {
+          "number": 39,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "绣线种类少"
+              },
+              {
+                "key": "B",
+                "text": "绣品尺寸大"
+              },
+              {
+                "key": "C",
+                "text": "吸收了西方油画的技巧"
+              },
+              {
+                "key": "D",
+                "text": "多以少数民族风情为题材"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 C「吸收了西方油画的技巧」与录音内容一致。"
+        },
+        {
+          "number": 40,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "仿真绣立体感强"
+              },
+              {
+                "key": "B",
+                "text": "仿真绣源于西方"
+              },
+              {
+                "key": "C",
+                "text": "仿真绣是双面绣"
+              },
+              {
+                "key": "D",
+                "text": "仿真绣的技法简单易学"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「仿真绣立体感强」与录音内容一致。"
+        },
+        {
+          "number": 41,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "为保护孩子"
+              },
+              {
+                "key": "B",
+                "text": "为躲避天敌"
+              },
+              {
+                "key": "C",
+                "text": "方便寻找食物"
+              },
+              {
+                "key": "D",
+                "text": "站立时无法保持平衡"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「站立时无法保持平衡」与录音内容一致。"
+        },
+        {
+          "number": 42,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "减少阻力"
+              },
+              {
+                "key": "B",
+                "text": "便于隐藏"
+              },
+              {
+                "key": "C",
+                "text": "容易控制方向"
+              },
+              {
+                "key": "D",
+                "text": "不易淋湿羽毛"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「减少阻力」与录音内容一致。"
+        },
+        {
+          "number": 43,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "尾巴短"
+              },
+              {
+                "key": "B",
+                "text": "体积大"
+              },
+              {
+                "key": "C",
+                "text": "嗅觉灵敏"
+              },
+              {
+                "key": "D",
+                "text": "飞行本领高"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「飞行本领高」与录音内容一致。"
+        },
+        {
+          "number": 44,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "医术高明"
+              },
+              {
+                "key": "B",
+                "text": "被誉为“药王”"
+              },
+              {
+                "key": "C",
+                "text": "曾给自己做过手术"
+              },
+              {
+                "key": "D",
+                "text": "发明了很多医疗器械"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 A「医术高明」与录音内容一致。"
+        },
+        {
+          "number": 45,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "方便麻醉"
+              },
+              {
+                "key": "B",
+                "text": "防止病人乱动"
+              },
+              {
+                "key": "C",
+                "text": "以免伤到自己"
+              },
+              {
+                "key": "D",
+                "text": "为减轻病人的痛苦"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「防止病人乱动」与录音内容一致。"
+        },
+        {
+          "number": 46,
+          "question_type": "single_choice",
+          "stem": "H61438 - 6 H61438 - 7",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "被吓坏了"
+              },
+              {
+                "key": "B",
+                "text": "失去知觉了"
+              },
+              {
+                "key": "C",
+                "text": "没有力气了"
+              },
+              {
+                "key": "D",
+                "text": "让人按住了"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「失去知觉了」与录音内容一致。"
+        },
+        {
+          "number": 47,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "中医的发展"
+              },
+              {
+                "key": "B",
+                "text": "华佗学医的故事"
+              },
+              {
+                "key": "C",
+                "text": "如何安抚病人的情绪"
+              },
+              {
+                "key": "D",
+                "text": "“麻沸散”是怎样诞生的"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「“麻沸散”是怎样诞生的」与录音内容一致。"
+        },
+        {
+          "number": 48,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "参加人数少"
+              },
+              {
+                "key": "B",
+                "text": "对场地要求极高"
+              },
+              {
+                "key": "C",
+                "text": "跳远是最主要的项目"
+              },
+              {
+                "key": "D",
+                "text": "考查运动员的综合素质"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「考查运动员的综合素质」与录音内容一致。"
+        },
+        {
+          "number": 49,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "太薄"
+              },
+              {
+                "key": "B",
+                "text": "易滑倒"
+              },
+              {
+                "key": "C",
+                "text": "易裂开"
+              },
+              {
+                "key": "D",
+                "text": "鞋底硬"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 B「易滑倒」与录音内容一致。"
+        },
+        {
+          "number": 50,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "轻便"
+              },
+              {
+                "key": "B",
+                "text": "耐磨"
+              },
+              {
+                "key": "C",
+                "text": "吸汗杀菌"
+              },
+              {
+                "key": "D",
+                "text": "增强爆发力"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题属于听力第三部分。请根据对话或独白内容选出正确答案，注意抓住关键信息。选项 D「增强爆发力」与录音内容一致。"
+        }
+      ],
+      "groups": [
+        {
+          "key": "main",
+          "instruction": "听力",
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "payload": {
+            "parts": [
+              {
+                "partNumber": 1,
+                "instruction": "第 1-15 题：请选出与所听内容一致的一项。",
+                "questionNumbers": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15
+                ]
+              },
+              {
+                "partNumber": 2,
+                "instruction": "第 16-30 题：请选出正确答案。",
+                "questionNumbers": [
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23,
+                  24,
+                  25,
+                  26,
+                  27,
+                  28,
+                  29,
+                  30
+                ]
+              },
+              {
+                "partNumber": 3,
+                "instruction": "第 31-50 题：请选出正确答案。",
+                "questionNumbers": [
+                  31,
+                  32,
+                  33,
+                  34,
+                  35,
+                  36,
+                  37,
+                  38,
+                  39,
+                  40,
+                  41,
+                  42,
+                  43,
+                  44,
+                  45,
+                  46,
+                  47,
+                  48,
+                  49,
+                  50
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "code": "reading",
+      "title": "阅读",
+      "duration_seconds": 3000,
+      "questions": [
+        {
+          "number": 51,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "不由得听了女儿的话，母亲笑了起来。"
+              },
+              {
+                "key": "B",
+                "text": "古代民间有重阳登高的风俗，故重阳节又叫“登高节”。"
+              },
+              {
+                "key": "C",
+                "text": "火锅是成都人的最爱，走在街头，大大小小的火锅店随处可见。"
+              },
+              {
+                "key": "D",
+                "text": "夜晚凭窗远眺，有人看到的是一片黑暗，有人看到的却是万点星光。"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查语病辨析，要求选出有语病的一项。选项 A「不由得听了女儿的话，母亲笑了起来。」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 52,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "在广阔的草原上驾车，视野开阔不说，心情也格外舒畅。"
+              },
+              {
+                "key": "B",
+                "text": "《弟子规》是一部成书于清朝并广为流传的儿童启蒙读物。"
+              },
+              {
+                "key": "C",
+                "text": "据预测，2015 年中国市场智能电视的销量已经突破 3000 万台。"
+              },
+              {
+                "key": "D",
+                "text": "很多营养学家认为，与牛奶相比，豆浆更适合成为中国人的早餐饮品。"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查语病辨析，要求选出有语病的一项。选项 C「据预测，2015 年中国市场智能电视的销量已经突破 3000 万台。」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 53,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "您的订单已提交成功，我们将尽快为您处理。"
+              },
+              {
+                "key": "B",
+                "text": "夕阳虽已落下，西边的天空却还燃烧着一片桔红色的晚霞。"
+              },
+              {
+                "key": "C",
+                "text": "铁是人体不可缺少的微量元素，人体的生长发育起着重要的作用。"
+              },
+              {
+                "key": "D",
+                "text": "刚开采出的紫砂泥质坚如石，需经风化、加工等，方可用于制作紫砂陶。"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查语病辨析，要求选出有语病的一项。选项 C「铁是人体不可缺少的微量元素，人体的生长发育起着重要的作用。」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 54,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "人生就是一场未知的冒险，没有人能事先知道结局。"
+              },
+              {
+                "key": "B",
+                "text": "钻石再大，若永远埋在地下，其价值也不过等同于砖石似的一样。"
+              },
+              {
+                "key": "C",
+                "text": "从网络新闻到移动新闻客户端，新闻阅读变得越来越便捷、高效。"
+              },
+              {
+                "key": "D",
+                "text": "历史上，一个国家计算圆周率的精确度可以作为其数学发展水平的标志。"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查语病辨析，要求选出有语病的一项。选项 B「钻石再大，若永远埋在地下，其价值也不过等同于砖石似的一样。」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 55,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "面对质疑，最好的回应就是用事实来说明一切。"
+              },
+              {
+                "key": "B",
+                "text": "按摩有舒活筋骨、促进血液循环和减轻压力等功效。"
+              },
+              {
+                "key": "C",
+                "text": "那个演员实在太滑稽了，他的每一个举动都能把观众逗得捧腹大笑。"
+              },
+              {
+                "key": "D",
+                "text": "根据国庆假期的临近，各大商场的促销活动都已进入了紧张的筹备阶段。"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查语病辨析，要求选出有语病的一项。选项 D「根据国庆假期的临近，各大商场的促销活动都已进入了紧张的筹备阶段。」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 56,
+          "question_type": "single_choice",
+          "stem": "",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "花朵不仅可以用来观赏，有些还可以做药材，用于中医治疗。"
+              },
+              {
+                "key": "B",
+                "text": "刷牙时在牙膏上放点儿盐，既能杀菌消炎，却能使牙齿坚固洁白。"
+              },
+              {
+                "key": "C",
+                "text": "他的脸像一张晴雨表，喜怒哀乐都挂在上面，让人一眼就可以看清。"
+              },
+              {
+                "key": "D",
+                "text": "什刹海曾是老北京主要的商业活动区，现在则成了北京的一处风景名胜。"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查语病辨析，要求选出有语病的一项。选项 B「刷牙时在牙膏上放点儿盐，既能杀菌消炎，却能使牙齿坚固洁白。」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 57,
+          "question_type": "single_choice",
+          "stem": "H61438 - 8",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "随着社会的进步，科学对社会生产的指导作用日益显著。"
+              },
+              {
+                "key": "B",
+                "text": "在人生的各个阶段，每个人都会遇到一些难以忘怀的知心朋友。"
+              },
+              {
+                "key": "C",
+                "text": "对不起，先生，您所携带的液体物品超过规定标准，请您办理托运。"
+              },
+              {
+                "key": "D",
+                "text": "夏天温度高，容易变形轮胎，抗压性也会随之下降，爆胎现象时有发生。"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查语病辨析，要求选出有语病的一项。选项 D「夏天温度高，容易变形轮胎，抗压性也会随之下降，爆胎现象时有发生。」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 58,
+          "question_type": "single_choice",
+          "stem": "之路。 明智的学问。 有强烈的刺激。 完整的跟踪瞄准系统。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "在我看来，一个人的青春生活是由错误和失败组成的，也是成功的必由"
+              },
+              {
+                "key": "B",
+                "text": "在汉语中，“哲”是“有智慧”的意思，“哲学”就是给人智慧、使人"
+              },
+              {
+                "key": "C",
+                "text": "芥末是用芥菜种子碾磨而成的一种粉状调料，其味道辛辣芳香，对口舌"
+              },
+              {
+                "key": "D",
+                "text": "生物学家研究指出，螳螂之所以能够准确捕食，是因为它的复眼有一套"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查语病辨析，要求选出有语病的一项。选项 A「在我看来，一个人的青春生活是由错误和失败组成的，也是成功的必由」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 59,
+          "question_type": "single_choice",
+          "stem": "米之间。 免受数据丢失。 要目标上做出适当让步。 的新词酷语，引发了社会各界的关注与热议。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "丘陵是陆地上起伏和缓、连绵不断的高地，它的海拔一般在 200 至 500"
+              },
+              {
+                "key": "B",
+                "text": "“备份”可以保护数据安全，让您在电脑硬件或存储媒体发生故障时，"
+              },
+              {
+                "key": "C",
+                "text": "明智的妥协是一种适当的交换，为了达到主要目标，有时我们不妨在次"
+              },
+              {
+                "key": "D",
+                "text": "商务印书馆历时 7 年修订出版的《现代汉语词典》第 6 版，收录了大量"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查语病辨析，要求选出有语病的一项。选项 B「“备份”可以保护数据安全，让您在电脑硬件或存储媒体发生故障时，」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 60,
+          "question_type": "single_choice",
+          "stem": "中的常见现象。 嵌在玉龙雪山下。 ，将于 9 月 4 日出演苏州文化艺术中心大剧院。 语更有表达力，能取得“无声胜有声”的效果。 H61438 - 9 第二部分",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "共生是指两种不同生物之间所形成的紧密合作与互利的关系，是自然界"
+              },
+              {
+                "key": "B",
+                "text": "蓝月谷呈月牙形，晴天时，它的水呈蓝色，远看就像一轮蓝色的月亮镶"
+              },
+              {
+                "key": "C",
+                "text": "由“黄梅戏皇后”韩再芬领衔主演的黄梅戏舞台剧《徽州往事》"
+              },
+              {
+                "key": "D",
+                "text": "生活中，人们常常自觉或不自觉地使用手势，这是因为手势有时候比话"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查语病辨析，要求选出有语病的一项。选项 C「由“黄梅戏皇后”韩再芬领衔主演的黄梅戏舞台剧《徽州往事》」存在搭配不当、成分残缺或语序问题，其余选项表达规范。"
+        },
+        {
+          "number": 61,
+          "question_type": "single_choice",
+          "stem": "10 月 23 日前后，人们将迎来二十四节气中的霜降。霜降预示着天气 冷、露水 成霜，它是秋季的最后一个节气，也 着冬季即将到来。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "逐渐"
+              },
+              {
+                "key": "B",
+                "text": "始终"
+              },
+              {
+                "key": "C",
+                "text": "日益"
+              },
+              {
+                "key": "D",
+                "text": "陆续"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查选词填空。根据句意「10 月 23 日前后，人们将迎来二十四节气中的霜降。霜降预示着天气 冷、露水 成霜，它是秋季的最后…」，空格处应填入「逐渐」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 62,
+          "question_type": "single_choice",
+          "stem": "茄子是为数不多的紫色蔬菜之一，它的紫皮中含有 常吃茄子能够 人体衰老。 “九州”是中国的一个别称。相传在 4000 多年前，中国大地上发生了一次特",
+          "payload": {
+            "options": [
+              {
+                "key": "E",
+                "text": "具有防止出血和抗衰老的"
+              },
+              {
+                "key": "A",
+                "text": "富裕"
+              },
+              {
+                "key": "B",
+                "text": "丰富"
+              },
+              {
+                "key": "C",
+                "text": "丰盛"
+              },
+              {
+                "key": "D",
+                "text": "充沛"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查选词填空。根据句意「茄子是为数不多的紫色蔬菜之一，它的紫皮中含有 常吃茄子能够 人体衰老。 “九州”是中国的一个别称。相…」，空格处应填入「丰富」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 63,
+          "question_type": "single_choice",
+          "stem": "大 ，人们 向各个高地迁徙。后来，有个叫禹的人疏通了河道， 了水患，并把中国 为 9 个区域，于是中国就有了“九州”之称。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "疾病"
+              },
+              {
+                "key": "B",
+                "text": "台风"
+              },
+              {
+                "key": "C",
+                "text": "地震"
+              },
+              {
+                "key": "D",
+                "text": "洪水"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查选词填空。根据句意「大 ，人们 向各个高地迁徙。后来，有个叫禹的人疏通了河道， 了水患，并把中国 为 9 个区域，于是中…」，空格处应填入「洪水」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 64,
+          "question_type": "single_choice",
+          "stem": "一个双方都感兴趣的 交谈的过程中， 多寻找双方的共同之处，比如共同的爱好、经历等, 这样可以 拉近彼此的距离， 感情。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "话题"
+              },
+              {
+                "key": "B",
+                "text": "主题"
+              },
+              {
+                "key": "C",
+                "text": "题目"
+              },
+              {
+                "key": "D",
+                "text": "题材"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查选词填空。根据句意「一个双方都感兴趣的 交谈的过程中， 多寻找双方的共同之处，比如共同的爱好、经历等, 这样可以 拉近彼…」，空格处应填入「话题」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 65,
+          "question_type": "single_choice",
+          "stem": "走马灯是花灯艺术中一类 转轮，转轮上 着人物、花鸟等各种剪纸。当 灯中的蜡烛后，灯 内热气上升，引起空气对流，转轮便开始转动，纸像也随之转动。走马灯的 画面 不断，动感十足， 。 H61438 - 10",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "独立"
+              },
+              {
+                "key": "B",
+                "text": "特定"
+              },
+              {
+                "key": "C",
+                "text": "独特"
+              },
+              {
+                "key": "D",
+                "text": "单独"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查选词填空。根据句意「走马灯是花灯艺术中一类 转轮，转轮上 着人物、花鸟等各种剪纸。当 灯中的蜡烛后，灯 内热气上升，引起…」，空格处应填入「独特」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 66,
+          "question_type": "single_choice",
+          "stem": "声相仪俗称声学照相机，它可以将声音 到声音的位置和大小。声相仪既可用来 环境噪声，又可作为分析设备 噪声的 ，检测由振动等原因 的噪音，实现非接触测量。 “穷游”是指人们",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "信号"
+              },
+              {
+                "key": "B",
+                "text": "信息"
+              },
+              {
+                "key": "C",
+                "text": "符号"
+              },
+              {
+                "key": "D",
+                "text": "消息"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查选词填空。根据句意「声相仪俗称声学照相机，它可以将声音 到声音的位置和大小。声相仪既可用来 环境噪声，又可作为分析设备 …」，空格处应填入「信息」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 67,
+          "question_type": "single_choice",
+          "stem": "大的快乐的一种旅游方式。它与“有钱”“没钱”无关，只是用最 的 方式去“穷”尽天下美景。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "自主"
+              },
+              {
+                "key": "B",
+                "text": "自发"
+              },
+              {
+                "key": "C",
+                "text": "自助"
+              },
+              {
+                "key": "D",
+                "text": "自觉"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查选词填空。根据句意「大的快乐的一种旅游方式。它与“有钱”“没钱”无关，只是用最 的 方式去“穷”尽天下美景。」，空格处应填入「自助」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 68,
+          "question_type": "single_choice",
+          "stem": "飞机越大，飞行时越平稳；飞机越小，飞行时越 的机翼 ，能产生足够的升力。 ，大型飞机的发动机功率较大， 能使飞机抵抗较强的高空气流，这和大轮船能够抵御较强风浪的 相似。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "颤抖"
+              },
+              {
+                "key": "B",
+                "text": "颠簸"
+              },
+              {
+                "key": "C",
+                "text": "震撼"
+              },
+              {
+                "key": "D",
+                "text": "摇摆"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查选词填空。根据句意「飞机越大，飞行时越平稳；飞机越小，飞行时越 的机翼 ，能产生足够的升力。 ，大型飞机的发动机功率较大…」，空格处应填入「颠簸」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 69,
+          "question_type": "single_choice",
+          "stem": "春秋时期，宋国一个城门发生火灾，火借着风势越烧越 跑到护城河边取水灭火。最后，大火被扑灭了，但护城河的水却被取 干了，河里的鱼也无法 下去了。成语“城门失火，殃及池鱼”就是这 么来的，它比喻无辜被连累而 灾祸。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "旺"
+              },
+              {
+                "key": "B",
+                "text": "壮"
+              },
+              {
+                "key": "C",
+                "text": "浓"
+              },
+              {
+                "key": "D",
+                "text": "沉"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查选词填空。根据句意「春秋时期，宋国一个城门发生火灾，火借着风势越烧越 跑到护城河边取水灭火。最后，大火被扑灭了，但护城河…」，空格处应填入「旺」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 70,
+          "question_type": "single_choice",
+          "stem": "线性文化遗产是指拥有特殊文化 的文化遗产群。运河、道路以及铁路线等都是其重要的表现 ，中国的 丝绸之路、茶马古道也 此类，它们代表了 的活动路线，体现了 地区文化的发展 。 H61438 - 11 第三部分",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "能源"
+              },
+              {
+                "key": "B",
+                "text": "资源"
+              },
+              {
+                "key": "C",
+                "text": "物资"
+              },
+              {
+                "key": "D",
+                "text": "资本"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查选词填空。根据句意「线性文化遗产是指拥有特殊文化 的文化遗产群。运河、道路以及铁路线等都是其重要的表现 ，中国的 丝绸之…」，空格处应填入「资源」，使句子搭配得当、语义通顺。"
+        },
+        {
+          "number": 71,
+          "question_type": "single_choice",
+          "stem": "（71） ，最初的作者已无从考证，现在流传的是经西汉刘向、刘歆 父子编校后的版本。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "反映了当时的科技水平"
+              },
+              {
+                "key": "B",
+                "text": "为后人的神话创作提供了丰富的素材"
+              },
+              {
+                "key": "C",
+                "text": "以及大量的神话传说"
+              },
+              {
+                "key": "D",
+                "text": "它大约成书于汉代初年"
+              },
+              {
+                "key": "E",
+                "text": "在古代文化、科技和交通都不发达的情况下"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查选句填空，需要根据上下文逻辑选填。将「它大约成书于汉代初年」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「（71） ，最初的作者已无从考证，现在流传的是经西汉刘向、刘歆」。"
+        },
+        {
+          "number": 72,
+          "question_type": "single_choice",
+          "stem": "书中 记载了中国古代的山川地貌、物产资源、各地民俗， （72） 。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "反映了当时的科技水平"
+              },
+              {
+                "key": "B",
+                "text": "为后人的神话创作提供了丰富的素材"
+              },
+              {
+                "key": "C",
+                "text": "以及大量的神话传说"
+              },
+              {
+                "key": "D",
+                "text": "它大约成书于汉代初年"
+              },
+              {
+                "key": "E",
+                "text": "在古代文化、科技和交通都不发达的情况下"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查选句填空，需要根据上下文逻辑选填。将「以及大量的神话传说」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「记载了中国古代的山川地貌、物产资源、各地民俗，」。"
+        },
+        {
+          "number": 73,
+          "question_type": "single_choice",
+          "stem": "（73） ，《山海经》 无疑是一部旅游与地理知识方面的百科全书。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "反映了当时的科技水平"
+              },
+              {
+                "key": "B",
+                "text": "为后人的神话创作提供了丰富的素材"
+              },
+              {
+                "key": "C",
+                "text": "以及大量的神话传说"
+              },
+              {
+                "key": "D",
+                "text": "它大约成书于汉代初年"
+              },
+              {
+                "key": "E",
+                "text": "在古代文化、科技和交通都不发达的情况下"
+              }
+            ]
+          },
+          "answer": {
+            "value": "E"
+          },
+          "score": 2,
+          "explanation": "正确答案是 E。本题考查选句填空，需要根据上下文逻辑选填。将「在古代文化、科技和交通都不发达的情况下」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「无疑是一部旅游与地理知识方面的百科全书」。"
+        },
+        {
+          "number": 74,
+          "question_type": "single_choice",
+          "stem": "其中夸父追日、女娲补天、 嫦娥奔月、共工怒触不周山等神话故事，代代相传、家喻户晓， （74） 。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "反映了当时的科技水平"
+              },
+              {
+                "key": "B",
+                "text": "为后人的神话创作提供了丰富的素材"
+              },
+              {
+                "key": "C",
+                "text": "以及大量的神话传说"
+              },
+              {
+                "key": "D",
+                "text": "它大约成书于汉代初年"
+              },
+              {
+                "key": "E",
+                "text": "在古代文化、科技和交通都不发达的情况下"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查选句填空，需要根据上下文逻辑选填。将「为后人的神话创作提供了丰富的素材」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「嫦娥奔月、共工怒触不周山等神话故事，代代相传、家喻户晓， （74）」。"
+        },
+        {
+          "number": 75,
+          "question_type": "single_choice",
+          "stem": "同时，《山海经》又是一部科技史，它记载了古代科学家们的科学实践活动和创 造发明，（75） ，具有很高的研究价值。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "反映了当时的科技水平"
+              },
+              {
+                "key": "B",
+                "text": "为后人的神话创作提供了丰富的素材"
+              },
+              {
+                "key": "C",
+                "text": "以及大量的神话传说"
+              },
+              {
+                "key": "D",
+                "text": "它大约成书于汉代初年"
+              },
+              {
+                "key": "E",
+                "text": "在古代文化、科技和交通都不发达的情况下"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查选句填空，需要根据上下文逻辑选填。将「反映了当时的科技水平」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「同时，《山海经》又是一部科技史，它记载了古代科学家们的科学实践活动和创」。"
+        },
+        {
+          "number": 76,
+          "question_type": "single_choice",
+          "stem": "它们没有水牛的力 量、羚羊的灵活， （76） 。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "抵达食物和水源充足的目的地"
+              },
+              {
+                "key": "B",
+                "text": "也没有斑马那可以扰乱猛兽视线的斑纹"
+              },
+              {
+                "key": "C",
+                "text": "如果不采取突然袭击或集体合围的方式"
+              },
+              {
+                "key": "D",
+                "text": "角马一生都在不停地奔跑"
+              },
+              {
+                "key": "E",
+                "text": "四部分"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查选句填空，需要根据上下文逻辑选填。将「如果不采取突然袭击或集体合围的方式」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「量、羚羊的灵活， （76）」。"
+        },
+        {
+          "number": 77,
+          "question_type": "single_choice",
+          "stem": "（77） ，角马有 自己的应对方式，它们能够一直与天敌抗衡并繁衍至 今，秘密就在于它们的“武器”——奔跑。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "抵达食物和水源充足的目的地"
+              },
+              {
+                "key": "B",
+                "text": "也没有斑马那可以扰乱猛兽视线的斑纹"
+              },
+              {
+                "key": "C",
+                "text": "如果不采取突然袭击或集体合围的方式"
+              },
+              {
+                "key": "D",
+                "text": "角马一生都在不停地奔跑"
+              },
+              {
+                "key": "E",
+                "text": "四部分"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查选句填空，需要根据上下文逻辑选填。将「抵达食物和水源充足的目的地」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「自己的应对方式，它们能够一直与天敌抗衡并繁衍至」。"
+        },
+        {
+          "number": 78,
+          "question_type": "single_choice",
+          "stem": "（78） ，为寻找新鲜的青草，日复 一日，年复一年。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "抵达食物和水源充足的目的地"
+              },
+              {
+                "key": "B",
+                "text": "也没有斑马那可以扰乱猛兽视线的斑纹"
+              },
+              {
+                "key": "C",
+                "text": "如果不采取突然袭击或集体合围的方式"
+              },
+              {
+                "key": "D",
+                "text": "角马一生都在不停地奔跑"
+              },
+              {
+                "key": "E",
+                "text": "四部分"
+              }
+            ]
+          },
+          "answer": {
+            "value": "E"
+          },
+          "score": 2,
+          "explanation": "正确答案是 E。本题考查选句填空，需要根据上下文逻辑选填。将「四部分」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「（78） ，为寻找新鲜的青草，日复」。"
+        },
+        {
+          "number": 79,
+          "question_type": "single_choice",
+          "stem": "成年角马奔跑的速度可达每小时 60 公里以上，（79） ，狮子和鬣狗 根本无法捕捉到它们。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "抵达食物和水源充足的目的地"
+              },
+              {
+                "key": "B",
+                "text": "也没有斑马那可以扰乱猛兽视线的斑纹"
+              },
+              {
+                "key": "C",
+                "text": "如果不采取突然袭击或集体合围的方式"
+              },
+              {
+                "key": "D",
+                "text": "角马一生都在不停地奔跑"
+              },
+              {
+                "key": "E",
+                "text": "四部分"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查选句填空，需要根据上下文逻辑选填。将「角马一生都在不停地奔跑」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「成年角马奔跑的速度可达每小时 60 公里以上，（79） ，狮子和鬣狗」。"
+        },
+        {
+          "number": 80,
+          "question_type": "single_choice",
+          "stem": "在迁徙的途中，有时可 能找不到可以吃的青草，角马能够两三天不吃不喝，完全依靠身体里储备的能量 和坚强的意志摆脱绝境，（80） 。",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "抵达食物和水源充足的目的地"
+              },
+              {
+                "key": "B",
+                "text": "也没有斑马那可以扰乱猛兽视线的斑纹"
+              },
+              {
+                "key": "C",
+                "text": "如果不采取突然袭击或集体合围的方式"
+              },
+              {
+                "key": "D",
+                "text": "角马一生都在不停地奔跑"
+              },
+              {
+                "key": "E",
+                "text": "四部分"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查选句填空，需要根据上下文逻辑选填。将「也没有斑马那可以扰乱猛兽视线的斑纹」填入空格后，前后文语义连贯、逻辑通顺。原文相关内容：「能找不到可以吃的青草，角马能够两三天不吃不喝，完全依靠身体里储备的能量」。"
+        },
+        {
+          "number": 81,
+          "question_type": "single_choice",
+          "stem": "根据第 1 段，人们记忆最深的是：",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "未完成的事情"
+              },
+              {
+                "key": "B",
+                "text": "感兴趣的事情"
+              },
+              {
+                "key": "C",
+                "text": "比较难办的事情"
+              },
+              {
+                "key": "D",
+                "text": "需要独立解决的事情"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查阅读理解。根据文章内容，选项 A「未完成的事情」与原文描述一致。"
+        },
+        {
+          "number": 82,
+          "question_type": "single_choice",
+          "stem": "关于那个实验，可以知道什么？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "乙组的题更难"
+              },
+              {
+                "key": "B",
+                "text": "甲组被中途打断"
+              },
+              {
+                "key": "C",
+                "text": "甲组完成得较慢"
+              },
+              {
+                "key": "D",
+                "text": "乙组的记忆效果更好"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查阅读理解。根据文章内容，选项 D「乙组的记忆效果更好」与原文描述一致。"
+        },
+        {
+          "number": 83,
+          "question_type": "single_choice",
+          "stem": "根据第 4 段，大脑的记忆规律是什么？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "时间越久记忆越深"
+              },
+              {
+                "key": "B",
+                "text": "优先记忆需要处理的内容"
+              },
+              {
+                "key": "C",
+                "text": "有选择地遗忘不愉快的记忆"
+              },
+              {
+                "key": "D",
+                "text": "优先记忆发生频率高的事情"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查阅读理解。根据文章内容，选项 B「优先记忆需要处理的内容」与原文描述一致。"
+        },
+        {
+          "number": 84,
+          "question_type": "single_choice",
+          "stem": "上文主要谈的是： H61438 - 14",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "增强记忆的方法"
+              },
+              {
+                "key": "B",
+                "text": "如何消除内心紧张"
+              },
+              {
+                "key": "C",
+                "text": "蔡戈尼效应及其成因"
+              },
+              {
+                "key": "D",
+                "text": "蔡戈尼效应在生活中的体现"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查阅读理解。根据文章内容，选项 C「蔡戈尼效应及其成因」与原文描述一致。"
+        },
+        {
+          "number": 85,
+          "question_type": "single_choice",
+          "stem": "很多人对短期气候预测的错误理解是什么？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "认为播报时间短"
+              },
+              {
+                "key": "B",
+                "text": "认为它覆盖范围小"
+              },
+              {
+                "key": "C",
+                "text": "将它等同于日常天气预报"
+              },
+              {
+                "key": "D",
+                "text": "以为它只针对当年的天气状况"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查阅读理解。根据文章内容，选项 C「将它等同于日常天气预报」与原文描述一致。"
+        },
+        {
+          "number": 86,
+          "question_type": "single_choice",
+          "stem": "关于长期气候预测，可以知道：",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "可信度高"
+              },
+              {
+                "key": "B",
+                "text": "以“月”为单位"
+              },
+              {
+                "key": "C",
+                "text": "预测的时间跨度大"
+              },
+              {
+                "key": "D",
+                "text": "与人们的生活息息相关"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查阅读理解。根据文章内容，选项 C「预测的时间跨度大」与原文描述一致。"
+        },
+        {
+          "number": 87,
+          "question_type": "single_choice",
+          "stem": "短期气候预测的主要作用是什么？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "为人们出行提供建议"
+              },
+              {
+                "key": "B",
+                "text": "预估生活用品的销量"
+              },
+              {
+                "key": "C",
+                "text": "为农业生产提供技术支持"
+              },
+              {
+                "key": "D",
+                "text": "降低因气候变化造成的损失"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查阅读理解。根据文章内容，选项 D「降低因气候变化造成的损失」与原文描述一致。"
+        },
+        {
+          "number": 88,
+          "question_type": "single_choice",
+          "stem": "根据第 4 段，下列哪项正确？ H61438 - 15",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "短期气候预测难度不大"
+              },
+              {
+                "key": "B",
+                "text": "气候预测不允许存在误差"
+              },
+              {
+                "key": "C",
+                "text": "气象科学的发展十分缓慢"
+              },
+              {
+                "key": "D",
+                "text": "短期气候预测并非准确无误"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查阅读理解。根据文章内容，选项 D「短期气候预测并非准确无误」与原文描述一致。"
+        },
+        {
+          "number": 89,
+          "question_type": "single_choice",
+          "stem": "“净”的脸谱有什么特点？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "图案复杂"
+              },
+              {
+                "key": "B",
+                "text": "色彩单一"
+              },
+              {
+                "key": "C",
+                "text": "线条分明"
+              },
+              {
+                "key": "D",
+                "text": "妆容自然"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查阅读理解。根据文章内容，选项 A「图案复杂」与原文描述一致。"
+        },
+        {
+          "number": 90,
+          "question_type": "single_choice",
+          "stem": "从脸谱的色彩可以推断出：",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "演员的年龄"
+              },
+              {
+                "key": "B",
+                "text": "人物的命运"
+              },
+              {
+                "key": "C",
+                "text": "人物的性格特征"
+              },
+              {
+                "key": "D",
+                "text": "故事的时代背景"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查阅读理解。根据文章内容，选项 C「人物的性格特征」与原文描述一致。"
+        },
+        {
+          "number": 91,
+          "question_type": "single_choice",
+          "stem": "关于脸谱的构图，可以知道什么？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "颜色少"
+              },
+              {
+                "key": "B",
+                "text": "样式多"
+              },
+              {
+                "key": "C",
+                "text": "有十几个谱式"
+              },
+              {
+                "key": "D",
+                "text": "很多已经失传了"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查阅读理解。根据文章内容，选项 B「样式多」与原文描述一致。"
+        },
+        {
+          "number": 92,
+          "question_type": "single_choice",
+          "stem": "根据上文，下列哪项正确？ H61438 - 16",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "脸谱艺术很受欢迎"
+              },
+              {
+                "key": "B",
+                "text": "黄色脸谱代表忠勇"
+              },
+              {
+                "key": "C",
+                "text": "脸谱的神秘感正在消失"
+              },
+              {
+                "key": "D",
+                "text": "“丑”的脸谱被称为“花脸”"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查阅读理解。根据文章内容，选项 A「脸谱艺术很受欢迎」与原文描述一致。"
+        },
+        {
+          "number": 93,
+          "question_type": "single_choice",
+          "stem": "根据第 2 段，邮局的人为什么感到不可思议？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "死信全都不见了"
+              },
+              {
+                "key": "B",
+                "text": "小伙子要给邮局捐钱"
+              },
+              {
+                "key": "C",
+                "text": "一个寄信的人都没有"
+              },
+              {
+                "key": "D",
+                "text": "小伙子要免费代送死信"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查阅读理解。根据文章内容，选项 D「小伙子要免费代送死信」与原文描述一致。"
+        },
+        {
+          "number": 94,
+          "question_type": "single_choice",
+          "stem": "根据第 3 段，下列哪项正确？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "小伙子很失望"
+              },
+              {
+                "key": "B",
+                "text": "邮局想收回死信"
+              },
+              {
+                "key": "C",
+                "text": "死信都被投递了出去"
+              },
+              {
+                "key": "D",
+                "text": "大家都觉得小伙子认真负责"
+              }
+            ]
+          },
+          "answer": {
+            "value": "D"
+          },
+          "score": 2,
+          "explanation": "正确答案是 D。本题考查阅读理解。根据文章内容，选项 D「大家都觉得小伙子认真负责」与原文描述一致。"
+        },
+        {
+          "number": 95,
+          "question_type": "single_choice",
+          "stem": "关于那个小伙子，可以知道：",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "公司办得很成功"
+              },
+              {
+                "key": "B",
+                "text": "和邮局一直有合作"
+              },
+              {
+                "key": "C",
+                "text": "找他投递的人不多"
+              },
+              {
+                "key": "D",
+                "text": "第一笔业务没收钱"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查阅读理解。根据文章内容，选项 A「公司办得很成功」与原文描述一致。"
+        },
+        {
+          "number": 96,
+          "question_type": "single_choice",
+          "stem": "上文主要想告诉我们： H61438 - 17",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "要戒骄戒躁"
+              },
+              {
+                "key": "B",
+                "text": "付出才有收获"
+              },
+              {
+                "key": "C",
+                "text": "逆境让人成长"
+              },
+              {
+                "key": "D",
+                "text": "办法总比困难多"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查阅读理解。根据文章内容，选项 B「付出才有收获」与原文描述一致。"
+        },
+        {
+          "number": 97,
+          "question_type": "single_choice",
+          "stem": "为什么深层海水的营养丰富？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "无污染"
+              },
+              {
+                "key": "B",
+                "text": "光合作用强"
+              },
+              {
+                "key": "C",
+                "text": "富含微量元素"
+              },
+              {
+                "key": "D",
+                "text": "海底土壤肥沃"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查阅读理解。根据文章内容，选项 C「富含微量元素」与原文描述一致。"
+        },
+        {
+          "number": 98,
+          "question_type": "single_choice",
+          "stem": "关于涌升海域，下列哪项正确？",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "浮游生物少"
+              },
+              {
+                "key": "B",
+                "text": "鱼的产量高"
+              },
+              {
+                "key": "C",
+                "text": "多处于寒暖流交汇处"
+              },
+              {
+                "key": "D",
+                "text": "占全球海洋面积的 50%"
+              }
+            ]
+          },
+          "answer": {
+            "value": "B"
+          },
+          "score": 2,
+          "explanation": "正确答案是 B。本题考查阅读理解。根据文章内容，选项 B「鱼的产量高」与原文描述一致。"
+        },
+        {
+          "number": 99,
+          "question_type": "single_choice",
+          "stem": "第 3 段中，画线句子“革命性的转变”是形容：",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "影响巨大"
+              },
+              {
+                "key": "B",
+                "text": "冲突激烈"
+              },
+              {
+                "key": "C",
+                "text": "机会难得"
+              },
+              {
+                "key": "D",
+                "text": "改变来得很突然"
+              }
+            ]
+          },
+          "answer": {
+            "value": "A"
+          },
+          "score": 2,
+          "explanation": "正确答案是 A。本题考查阅读理解。根据文章内容，选项 A「影响巨大」与原文描述一致。"
+        },
+        {
+          "number": 100,
+          "question_type": "single_choice",
+          "stem": "根据上文，下列哪项正确？ H61438 - 18",
+          "payload": {
+            "options": [
+              {
+                "key": "A",
+                "text": "深层海水是无菌的"
+              },
+              {
+                "key": "B",
+                "text": "涌升海域是人工制造的"
+              },
+              {
+                "key": "C",
+                "text": "深层海水可用来生产食品"
+              },
+              {
+                "key": "D",
+                "text": "海洋资源被过度开发利用"
+              }
+            ]
+          },
+          "answer": {
+            "value": "C"
+          },
+          "score": 2,
+          "explanation": "正确答案是 C。本题考查阅读理解。根据文章内容，选项 C「深层海水可用来生产食品」与原文描述一致。"
+        }
+      ],
+      "groups": [
+        {
+          "key": "grammar",
+          "instruction": "第 51-60 题：请选出有语病的一项。",
+          "questionNumbers": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "payload": {
+            "partNumber": 1
+          }
+        },
+        {
+          "key": "cloze",
+          "instruction": "第 61-70 题：选词填空。",
+          "questionNumbers": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "payload": {
+            "partNumber": 2
+          }
+        },
+        {
+          "key": "blank-71-75",
+          "instruction": "第 71-75 题：选句填空。",
+          "material": "《山海经》是一部记载中国古代民间传说和地理知识等方面的著作。\n（71） ，最初的作者已无从考证，现在流传的是经西汉刘向、刘歆\n父子编校后的版本。\n《山海经》共 18 卷，分《山经》和《海经》两部分。书中\n记载了中国古代的山川地貌、物产资源、各地民俗，\n（72） 。其中， 《山经》记述了古史、草木、鸟兽、\n神话、宗教等方面的内容。而《海经》除记录了地理方位外，\n还记载了海外各国的奇异风貌。（73） ，《山海经》\n无疑是一部旅游与地理知识方面的百科全书。\n《山海经》也是中国记载神话最多的一部古书，书里众多\n的神话故事和民间传说体现了古人极其丰富的想象力。其中夸父追日、女娲补天、\n嫦娥奔月、共工怒触不周山等神话故事，代代相传、家喻户晓， （74） 。\n同时，《山海经》又是一部科技史，它记载了古代科学家们的科学实践活动和创\n造发明，（75） ，具有很高的研究价值。",
+          "questionNumbers": [
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "payload": {
+            "partNumber": 3
+          }
+        },
+        {
+          "key": "blank-76-80",
+          "instruction": "第 76-80 题：选句填空。",
+          "material": "在草食动物中，角马恐怕算是最没有“特长”的一类了。它们没有水牛的力\n量、羚羊的灵活， （76） 。它们不但是鳄鱼、狮子、鬣狗等肉食动物\n捕食的对象，甚至还经常被河马、野牛等草食同类攻\n击，生存环境十分恶劣。 （77） ，角马有\n自己的应对方式，它们能够一直与天敌抗衡并繁衍至\n今，秘密就在于它们的“武器”——奔跑。\n（78） ，为寻找新鲜的青草，日复\n一日，年复一年。它们在奔跑中生长，在奔跑中求偶，\n在奔跑中交配，在奔跑中分娩。小角马出生 5 分钟后\n就能站立，15 分钟后便能奔跑，仅一天的功夫，就能跟上角马群行进的节奏。\n成年角马奔跑的速度可达每小时 60 公里以上，（79） ，狮子和鬣狗\n根本无法捕捉到它们。\n角马的耐力也非常惊人，它们可以连续奔跑一整天。在迁徙的途中，有时可\n能找不到可以吃的青草，角马能够两三天不吃不喝，完全依靠身体里储备的能量\n和坚强的意志摆脱绝境，（80） 。\nA 但面对这些威胁",
+          "questionNumbers": [
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "payload": {
+            "partNumber": 3
+          }
+        },
+        {
+          "key": "comprehension-81-84",
+          "instruction": "第 81-84 题：请选出正确答案。",
+          "material": "蔡戈尼效应又叫蔡戈尼克记忆效应，是指人们对尚未处理完的事情比已处理\n完的事情印象更加深刻。人们之所以会忘记已完成的\n工作，是因为“想要完成”这一动机已经得到满足。\n而如果工作尚未完成，这个动机就未被满足，人们就\n会对此留下深刻的印象。\n1927 年，心理学家蔡戈尼做了一个实验，他将\n受试者分为甲、乙两组，让他们同时演算相同的数学\n题。实验中，他让甲组顺利地完成演算，而在乙组演算过程中，突然让其停止，\n然后让两组分别回忆演算的题目。结果显示，乙组的记忆效果要明显优于甲组，\n因为这种“未完成的不快”深深地刻在了乙组人的记忆中，挥之不去。而甲组那\n些已完成的人，完成欲得到了满足，便很快忘记了任务。\n为什么人们对未完成的工作记忆效果要优于已完成的呢？或许我们可以用\n心理紧张是否消除来加以说明。未完成的工作所引起的心理紧张没有消除的话，\n人们就会有较强烈的动机去完成它，即使在做了其他工作之后，依然有继续完成\n它的想法，所以记忆自然也会较为深刻，回忆量也相对较大。\n其实，工作和生活都是如此。你可能对目前正在做、但还没完成的事情记忆\n最深刻，而对于已经完成的事情却不会给予太多的关注。这也符合人的记忆规律：\n人的大脑总是记住一些需要加工的内容，并将其放在工作记忆中，而对于已经完\n成或将要完成的内容则会有意地去遗忘。",
+          "questionNumbers": [
+            81,
+            82,
+            83,
+            84
+          ],
+          "payload": {
+            "partNumber": 4
+          }
+        },
+        {
+          "key": "comprehension-85-88",
+          "instruction": "第 85-88 题：请选出正确答案。",
+          "material": "看到“短期气候预测”这几个字，很多人都以为是我们每天收听、收看的天\n气预报。如果你也这样想，那就错了。天气预报只能让我们了解到未来三五天内\n的气温、风力等。但是，如果想在酷夏时知道今年冬\n天冷不冷，或是想在寒冬里预知明年夏天天气如何，\n那就要靠短期气候预测了。\n短期气候预测是相对于长期气候预测而言的，后\n者做的是未来 50 年、100 年的气候分析，难度极高。\n而短期气候预测虽然是“短期”，但它也不像天气预报\n那么短，它的时间单位不是“日”，而是“月”“季”\n“半年”或“一年”。\n短期气候预测所要做的，是帮助国家决策部门了解和掌握未来数月或一年内\n的气候变化情况，以避免因气候变化而带来的不必要的人、财、物的损失。例如，\n预测出即将来临的冬天何时最冷，石油开采相关部门便可由此决定何时需要封井，\n因为稍有迟缓，冰就会像刀子般把油管割裂；知道了天气将冷到何种程度，海事\n部门便可知道某些海湾会不会结冰，并由此判断破冰船之类的交通运输工具是否\n要及早调度；而农业部门也可根据冷暖预测，提前选择明年要播种的作物品种。\n甚至第二年大到空调，小至扇子、饮料的产量，相关行业都会看短期气候预测的\n“脸色”行事。可见，短期气候预测的作用无处不在，说它与老百姓的生活息息\n相关一点儿也不夸张。\n但与天气预报相比，短期气候预测要面对的不确定因素更多。即便掌握了征\n兆，经过了周密的演算，也还可能会遇到一些不可预知的变数，所以，短期气候\n预测绝非万能。气象变幻莫测，只有在误差中不断修正，气象科学才会进步。",
+          "questionNumbers": [
+            85,
+            86,
+            87,
+            88
+          ],
+          "payload": {
+            "partNumber": 4
+          }
+        },
+        {
+          "key": "comprehension-89-92",
+          "instruction": "第 89-92 题：请选出正确答案。",
+          "material": "脸谱是中国戏曲演员用于舞台演出时的化妆造型艺术，也是一种具有中国民\n族特色的化妆方法。这种艺术一直以来深受人们的喜爱。\n拿京剧来说，京剧分为“生”“旦”“净”“丑”四大基本行当，不同行当脸\n谱也各不相同。“生”\n“旦”面部化妆简单，略施脂粉即可。\n而“净”“丑”的面部绘画比较复杂，特别是“净”，都是\n重施油彩的，图案比较复杂，因此也被称为“花脸”。中国\n的脸谱主要指的就是京剧中“净”的面部绘画。\n脸谱在色彩上有一定的表现模式。内行的观众从脸谱\n颜色就可以分辨出这个角色是英雄还是坏人，聪明还是愚\n蠢，受人爱戴还是使人厌恶。一般来说，红色的脸谱象征\n忠勇义烈之士，代表人物有关羽、常遇春等；黑色的脸谱表示此人正直、勇猛或\n鲁莽，代表人物有包拯、张飞等；黄色的脸谱代表一些凶狠残暴的人物，如宇文\n成都、典韦等；蓝色和绿色的脸谱则表示该角色人物脾气暴躁，如窦尔敦、马武\n等；而白色的脸谱一般代表奸臣和坏人，如曹操、赵高等。\n另外，脸谱的构图多种多样，各种五颜六色、装饰性很强的图案容易使人眼\n花缭乱，产生神秘感。其实，脸谱归纳起来也不过只有十几个类型，但由于它们\n之间相互借鉴，再加上自身的发展演变，就派生出了许许多多的谱式。这些谱式\n都是以各种人物的形态外貌、性格特征为依据的，即使是同一类型的谱式，因人\n物性格不同，各部位的线条勾画与色彩处理也就不同，从而使每个人物都富有各\n自的特点而绝不雷同。",
+          "questionNumbers": [
+            89,
+            90,
+            91,
+            92
+          ],
+          "payload": {
+            "partNumber": 4
+          }
+        },
+        {
+          "key": "comprehension-93-96",
+          "instruction": "第 93-96 题：请选出正确答案。",
+          "material": "在邮局仓库的一角，堆着成千上万封信，这些都是无法找到收信人、又无法\n退回的“死信”。按照规定，这些信如果再存放一段时间还无人认领的话，就要\n被销毁了。\n一天，邮局的工作人员正准备把这些死信销毁的时候，一个小伙子找上了门。\n他来访的目的让邮局的人感到很意外。原来，小伙子是为了那\n些令人头疼的死信而来的，他想要代送全部的死信，不仅不收\n一分钱，而且还给邮局一定的保证金。邮局的工作人员都觉得\n不可思议，但小伙子真诚的话语，又让他们不得不相信这是件\n好事，说不定真的可以把那些死信投出去，而且不用邮局投入\n一个劳力、一分钱。于是，邮局的人答应让小伙子试一试。\n第二天，小伙子就开始在大街小巷投递那些死信。尽管他\n按照信上的地址很认真地走了一遍，却依然没有投递出去一封。\n小伙子像早料到了这个结果似的，脸上并没有失望的表情。时\n间一天天过去，附近的居民渐渐认识了这个小伙子，大家都被他认真负责的精神\n感动了。\n一天，小伙子在投递死信的途中被一个人叫住了。那个人让小伙子把一封急\n件送到另外一个区，并给了他丰厚的酬劳。小伙子欣然接受了他的第一笔业务。\n不久之后，小伙子开了一家快递公司。由于他敬业的精神早已为人们所知，所以\n来找他送快递的客户络绎不绝。第二年，他又扩大了公司的规模，并在很多城市\n开了连锁店。\n其实，成功的果实往往都是用努力付出的汗水浇灌出来的。只要我们有一颗\n在收获前坚持付出的心，成功就会在不远处向我们招手。",
+          "questionNumbers": [
+            93,
+            94,
+            95,
+            96
+          ],
+          "payload": {
+            "partNumber": 4
+          }
+        },
+        {
+          "key": "comprehension-97-100",
+          "instruction": "第 97-100 题：请选出正确答案。",
+          "material": "众所周知，海洋中含有丰富的生物和矿产资源，然而，很少有人知道海水本\n身也是海洋宝藏之一。海洋学家通过长期的研究发现，深层海水是海洋的精华，\n若能得到充分利用，人类将受益无穷。\n深层海水是指距陆地 5000 米之外、水深 200 米\n以上的海水。在深层海水所处的位置，光合作用无法\n进行，有机物的分解速度远远高于其合成速度，作为\n“肥料”的氮、磷、钾等微量元素得以大量保存。因\n此，深层海水的营养十分丰富。\n同时，受某些特殊海底地形及气候条件的影响，深层海水会自然涌升到海面\n上来，形成“涌升海域”。这种涌升海域仅占全球海洋面积的 0.1%，却集中了 50％\n以上的海洋鱼类资源。其奥秘就隐藏在深层海水里：当含有丰富微量元素的深层\n海水涌上海面后，浮游生物和藻类会迅速生长，这就为鱼类提供了充足的肥料。\n调查显示，涌升海域和一般海域在鱼类产量上的差距极为惊人：单位面积涌升海\n域的鱼类产量是沿岸海域的上百倍，是外洋海域的数万倍。如果人类能制造涌升\n海域，充分利用深层海水资源，将会给海洋渔业带来革命性的转变。\n深层海水还是一种几乎没有被污染的水，它的营养盐浓度是表层海水的 5\n倍，而细菌含量却只有表层海水的 10%，甚至更低。洁净的深层海水引起了食品\n生产商的极大兴趣。利用深层海水生产的豆腐、酱油等，不仅发酵过程快，而且\n口感极佳，很受消费者的青睐。现在，一些化妆品生产商也跃跃欲试，计划利用\n深层海水研发新一代的护肤用品。",
+          "questionNumbers": [
+            97,
+            98,
+            99,
+            100
+          ],
+          "payload": {
+            "partNumber": 4
+          }
+        }
+      ]
+    },
+    {
+      "code": "writing",
+      "title": "书写",
+      "duration_seconds": 2700,
+      "questions": [
+        {
+          "number": 101,
+          "question_type": "essay",
+          "stem": "缩写",
+          "payload": {
+            "task_type": "summary",
+            "reading_minutes": 10,
+            "writing_minutes": 35,
+            "target_length": 400,
+            "rules": [
+              "仔细阅读文章，阅读时不能抄写、记录。",
+              "阅读后请缩写成一篇短文。",
+              "标题自拟，只需复述文章内容，不需加入自己的观点。",
+              "字数为 400 左右。"
+            ],
+            "material": "三、书 写\n\n第 101 题：缩写。\n\n  （1）仔细阅读下面这篇文章，时间为 10 分钟，阅读时不能抄写、记录。\n  （2）10 分钟后，监考收回阅读材料，请你将这篇文章缩写成一篇短文，时\n     间为 35 分钟。\n  （3）标题自拟。只需复述文章内容，不需加入自己的观点。\n  （4）字数为 400 左右。\n  （5）请把作文直接写在答题卡上。\n\n\n\n\n  相传，在远古时期，天上有 10 个太阳，他们都是天帝的儿子。他们每人一\n天，轮流穿越天空，给大地万物带去光明和热量。那时候，人们日出而作，日落\n而息，生活非常美满。\n  可是，有一天，这 10 个太阳突发奇想：\n                     “要是我们一起穿越天空，那肯定非\n常有趣。”于是，当黎明来临时，他们便一起踏上了穿越天空的旅程。这下，大\n地上的万物遭殃了：世间没有了夜晚和四季，大地被烤得又热又旱，森林渐渐被\n烧成了灰烬，动物们失去了庇护的场所，河流干枯了，植物也枯萎了，人和家畜\n也都没有了食物来源。万物在酷热的天气下艰难地生存着。\n  这时，有个年轻的神箭手，他看到人们生活在苦难中，便决心要射掉 10 个\n太阳，帮助大家脱离苦海。于是，他跋山涉水，历尽千难万险，登上了一座最高\n的山峰。他拉开弓，搭上箭，瞄准天上毒辣辣的太阳射了过去。可是太阳离得太\n远，他的力气根本不够，箭飞到半空中就落了下来，完全伤不到太阳。他用尽全\n身力气又连续射了几箭，依旧没能射中。神箭手被太阳烤得一阵眩晕，突然脚底\n一滑，从山顶摔了下去。\n  等他醒来时，看见面前站着一个白发苍苍的老人。老人问他为什么会到这里\n来。神箭手便把天上 10 个太阳肆虐人间，以及自己决心射下他们的事情告诉了\n老人。听完神箭手的讲述，白发老人感叹道：   “世间万物，稀少者为贵，过多者\n为灾啊。好吧，让我来帮助你吧。”说完，老人递给神箭手一样东西，说：  “把它\n吃下去，你就会变得力大无穷了。”神箭手照老人的话做了。吃完后，他立刻觉\n得热血沸腾，力气倍增。于是他背起弓箭，再次向最高的那座山前进。\n  不一会儿的功夫，他就登上了山顶。神箭手瞄准太阳，拉弓射箭，“嗖”地\n一箭射去，第一个太阳便被射了下来。他又拉开弓，搭上箭，又一箭射去，这次，\n同时射落了两个太阳。就这样，他一连射下了 9 个太阳。此时，天空渐渐暗了下\n来，大地也不像以前那样炙热了。就在他要拉弓准备射落第 10 个太阳时，他忽\n然想起了白发老人说过的话——世间万物，稀少者为贵。神箭手恍然大悟：世上\n要是一个太阳也没有了，就会变成一片黑暗，那样的话，万物也就无法生存了。\n于是，他收起了箭，留下了第 10 个太阳，并告诫他以后每天要准时升起、落下。\n\n\n\n\n                H61438 - 19\n\f  人们得知神箭手射下了 9 个太阳，都高兴得手舞足蹈，齐声欢呼。剩下的那\n个太阳每天准时从东方升起，挂在天空，温暖着人间；夜晚又准时从西方落下，\n让万物得以休憩。从此，万物又有了生机，大地也恢复了生气。\n\n\n\n\n                H61438 - 20"
+          },
+          "answer": {
+            "reference_essay": "",
+            "rubrics": [
+              {
+                "criterion": "内容覆盖",
+                "weight": 0.4
+              },
+              {
+                "criterion": "语言准确",
+                "weight": 0.3
+              },
+              {
+                "criterion": "结构连贯",
+                "weight": 0.3
+              }
+            ]
+          },
+          "score": 100,
+          "explanation": "本题要求在 10 分钟内阅读一篇约 1100 字的文章，然后在 35 分钟内缩写成 400 字左右的短文。标题自拟，只需复述文章内容，不需加入自己的观点。评分标准：内容覆盖 40%、语言准确 30%、结构连贯 30%。"
+        }
+      ],
+      "groups": [
+        {
+          "key": "summary",
+          "instruction": "第 101 题：缩写。",
+          "material": "三、书 写\n\n第 101 题：缩写。\n\n  （1）仔细阅读下面这篇文章，时间为 10 分钟，阅读时不能抄写、记录。\n  （2）10 分钟后，监考收回阅读材料，请你将这篇文章缩写成一篇短文，时\n     间为 35 分钟。\n  （3）标题自拟。只需复述文章内容，不需加入自己的观点。\n  （4）字数为 400 左右。\n  （5）请把作文直接写在答题卡上。\n\n\n\n\n  相传，在远古时期，天上有 10 个太阳，他们都是天帝的儿子。他们每人一\n天，轮流穿越天空，给大地万物带去光明和热量。那时候，人们日出而作，日落\n而息，生活非常美满。\n  可是，有一天，这 10 个太阳突发奇想：\n                     “要是我们一起穿越天空，那肯定非\n常有趣。”于是，当黎明来临时，他们便一起踏上了穿越天空的旅程。这下，大\n地上的万物遭殃了：世间没有了夜晚和四季，大地被烤得又热又旱，森林渐渐被\n烧成了灰烬，动物们失去了庇护的场所，河流干枯了，植物也枯萎了，人和家畜\n也都没有了食物来源。万物在酷热的天气下艰难地生存着。\n  这时，有个年轻的神箭手，他看到人们生活在苦难中，便决心要射掉 10 个\n太阳，帮助大家脱离苦海。于是，他跋山涉水，历尽千难万险，登上了一座最高\n的山峰。他拉开弓，搭上箭，瞄准天上毒辣辣的太阳射了过去。可是太阳离得太\n远，他的力气根本不够，箭飞到半空中就落了下来，完全伤不到太阳。他用尽全\n身力气又连续射了几箭，依旧没能射中。神箭手被太阳烤得一阵眩晕，突然脚底\n一滑，从山顶摔了下去。\n  等他醒来时，看见面前站着一个白发苍苍的老人。老人问他为什么会到这里\n来。神箭手便把天上 10 个太阳肆虐人间，以及自己决心射下他们的事情告诉了\n老人。听完神箭手的讲述，白发老人感叹道：   “世间万物，稀少者为贵，过多者\n为灾啊。好吧，让我来帮助你吧。”说完，老人递给神箭手一样东西，说：  “把它\n吃下去，你就会变得力大无穷了。”神箭手照老人的话做了。吃完后，他立刻觉\n得热血沸腾，力气倍增。于是他背起弓箭，再次向最高的那座山前进。\n  不一会儿的功夫，他就登上了山顶。神箭手瞄准太阳，拉弓射箭，“嗖”地\n一箭射去，第一个太阳便被射了下来。他又拉开弓，搭上箭，又一箭射去，这次，\n同时射落了两个太阳。就这样，他一连射下了 9 个太阳。此时，天空渐渐暗了下\n来，大地也不像以前那样炙热了。就在他要拉弓准备射落第 10 个太阳时，他忽\n然想起了白发老人说过的话——世间万物，稀少者为贵。神箭手恍然大悟：世上\n要是一个太阳也没有了，就会变成一片黑暗，那样的话，万物也就无法生存了。\n于是，他收起了箭，留下了第 10 个太阳，并告诫他以后每天要准时升起、落下。\n\n\n\n\n                H61438 - 19\n\f  人们得知神箭手射下了 9 个太阳，都高兴得手舞足蹈，齐声欢呼。剩下的那\n个太阳每天准时从东方升起，挂在天空，温暖着人间；夜晚又准时从西方落下，\n让万物得以休憩。从此，万物又有了生机，大地也恢复了生气。\n\n\n\n\n                H61438 - 20",
+          "questionNumbers": [
+            101
+          ]
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset-h61438-audio",
+      "asset_type": "audio",
+      "storage_key": "docs/61438/H61438.mp3",
+      "url": "/api/papers/paper-h61438/assets/asset-h61438-audio",
+      "mime_type": "audio/mpeg",
+      "usage": "full_listening_audio",
+      "duration_ms": 2128640
+    }
+  ]
+}
